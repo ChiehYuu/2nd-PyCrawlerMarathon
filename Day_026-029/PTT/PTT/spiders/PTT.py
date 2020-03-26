@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 from bs4 import BeautifulSoup
-from PTT.items import PTTItem as Item
+from PTT.items import PttItem as Item
 import re
 import time
 
