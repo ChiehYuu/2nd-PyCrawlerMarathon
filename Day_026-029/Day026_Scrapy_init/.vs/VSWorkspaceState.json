@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\myproject",
+    "\\myproject\\myproject",
+    "\\myproject\\myproject\\spiders"
+  ],
+  "SelectedNode": "\\myproject\\myproject\\spiders\\PTTCrawler.py",
+  "PreviewInSolutionExplorer": false
+}
