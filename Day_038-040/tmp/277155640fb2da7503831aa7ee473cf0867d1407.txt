@@ -1,0 +1,10 @@
+
+      
+      R.F.
+      發表於 2020年4月19日 09:00
+      2020-04-19      
+  收藏此文
+    
+            AMD 於 AM4 主流平台推出 Ryzen 9 3950X 處理器，讓喜愛 Mini-ITX 迷你電腦系統的玩家可以享受實體十六核心處理器帶來的效能。近日 ASRock 推出 1 款長度不到 18 公分的 Radeon RX 5500 XT Challenger ITX 8G 顯示卡，讓 Mini-ITX 玩家也可以組成最新的 3A 平台。    喜愛 3A 平台（處理器、主機板（晶片組）、顯示卡）的 Mini-ITX 玩家有福了，繼 AMD 於 AM4 主流平台推出 Ryzen 9 3950X 處理器，享有實體十六核心 32 執行緒效能，以及各家廠商接力推出 X570 Mini-ITX 主機板之後，ASRock 近日宣布將推出 1 款同樣是 Mini-ITX 身材的雙槽位顯示卡 Radeon RX 5500 XT Challenger ITX 8G。▲ ASRock 宣布推出雙槽位顯示卡 Radeon RX 5500 XT Challenger ITX 8G，讓 Mini-ITX 迷你電腦主機系統愛好者也可以享受 7nm RDNA 架構所帶來的效能。Radeon RX 5500 XT Challenger ITX 8G 不含介面卡檔板的長度為 178mm，計入介面卡檔板的長度為 190mm，由於採用雙槽位厚度散熱器的緣故，需要佔去 2 個介面卡插槽。散熱器風扇採用 100mm 長壽命版本，因此也讓高度稍微增加至 139mm，玩家可得注意 Mini-ITX 機殼是否留有足夠的空間。▲ Radeon RX 5500 XT Challenger ITX 8G 採用直徑 100mm 風扇，讓顯示卡高度稍微突出一些達 139mm。由產品命名即可得知，這款顯示卡採用 AMD Radeon RX 5500 XT 顯示繪圖晶片，視訊專用記憶體則為 GDDR6 8GB。GPU 基礎時脈設定採用 1607MHz、Game 遊戲時脈為 1717MHz、最高 Boost 時脈為 1845MHz，GDDR6 為 14Gbps 速度版本，大致上與官方設定相符。由於 ASRock 原先推出的 Radeon RX 5500 XT Challenger 8GB 顯示卡電路板並不長，猜測 Radeon RX 5500 XT Challenger ITX 8G 也是採用相同設計，僅換裝內嵌 2 條熱導管的小型散熱器。視訊輸出部分則具備 3 個 DisplayPort 1.4（支援 DSC 1.2a），以及 1 個 HDMI 2.0b。▲ Radeon RX 5500 XT Challenger ITX 8G 視訊輸出包含 3 個 DisplayPort 1.4、1 個 HDMI 2.0b，其餘檔版空間則規劃對流散熱孔。Radeon RX 5500 XT Challenger ITX 8G 需要額外連接 1 個 PCIe 8pin 輔助電源，ASRock 官方則建議搭配 500W 電源供應器，並尚未公布建議售價以及上市日期，但價格應該不會超過自家 Radeon RX 5500 XT Challenger 8GB。 你知道 PCADV 電腦王也有 Telegram 頻道嗎？SharesFacebook馬上按讚 加入電腦王粉絲團
+        標籤：零組件, pcadv, 電腦王, 顯示卡, asrock, radeon, 新聞, itx, 5500 xt
+      更多3C新消息，快來加入電腦王粉絲團請注意！留言要自負法律責任，相關案例層出不窮，請慎重發文！
