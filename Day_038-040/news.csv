@@ -1,0 +1,501 @@
+,category,link,title,summary
+1,資訊安全,https://technews.tw/2020/04/23/academics-steal-data-from-air-gapped-systems-using-pc-fan-vibrations/?utm_source=fb_tn&utm_medium=facebook,比利時研究團隊新發現：不上網，駭客利用電腦風扇也能竊取資料 | TechNews 科技新報,比利時研究團隊新發現：不上網，駭客利用電腦風扇也能竊取資料 | TechNews 科技新報
+2,科技,https://technews.tw/2020/04/23/over-hundred-professionalist-against-eid/?utm_source=fb_tn&utm_medium=facebook,「數位身分證」即將上路，卻有百位學者專家連署反對 | TechNews 科技新報,「數位身分證」即將上路，卻有百位學者專家連署反對 | TechNews 科技新報
+3,蘋果專區,https://technews.tw/2020/04/23/flaw-in-iphone-ipads-may-have-allowed-hackers-to-steal-data-for-years/?utm_source=fb_tn&utm_medium=facebook,數億支 iPhone 及 iPad 驚爆「恐怖級」安全漏洞，駭客可獲取遠端存取完全權限 | TechNews 科技新報,數億支 iPhone 及 iPad 驚爆「恐怖級」安全漏洞，駭客可獲取遠端存取完全權限 | TechNews 科技新報
+4,科技,https://technews.tw/2020/04/23/pompeo-says-world-must-have-access-to-chinese-labs-to-determine-source-of-coronavirus/?utm_source=fb_tn&utm_medium=facebook,蓬佩奧：病毒起源需調查中國「多個」實驗室，不只武漢 | TechNews 科技新報,蓬佩奧：病毒起源需調查中國「多個」實驗室，不只武漢 | TechNews 科技新報
+5,職場白領,http://sc.piee.pw/Q3A2U,「吹哨」的英文怎麼說？ | 經理人,「吹哨」的英文怎麼說？ | 經理人
+6,理財,https://www.storm.mg/lifestyle/2554750,【親子理財】媽，買股票會拿到股利分紅，「配息」指的給現金嗎？-風傳媒,【親子理財】媽，買股票會拿到股利分紅，「配息」指的給現金嗎？-風傳媒
+7,商業,https://www.storm.mg/article/2551390,「與其賺1億美元，我寧願救1億人！」博士班狂修500學分，讓蔡秉燚發明N95口罩-風傳媒,「與其賺1億美元，我寧願救1億人！」博士班狂修500學分，讓蔡秉燚發明N95口罩-風傳媒
+8,APP應用程式,https://www.ithome.com.tw/news/137163,研究：iOS Mail App傳零時差漏洞　iOS 6以上皆有風險 | iThome,研究：iOS Mail App傳零時差漏洞　iOS 6以上皆有風險 | iThome
+9,iThome 新聞,https://www.ithome.com.tw/news/137145,微軟更新VS Code Python擴充套件，支援ipywidgets控制元件 | iThome,微軟更新VS Code Python擴充套件，支援ipywidgets控制元件 | iThome
+10,iThome 新聞,https://www.ithome.com.tw/news/137157,Azure封存服務可讓用戶以高優先檢索快速取回資料 | iThome,Azure封存服務可讓用戶以高優先檢索快速取回資料 | iThome
+11,遊戲情報,https://www.ithome.com.tw/news/137162,武漢肺炎效應：3月美國遊戲機銷售量成長63% | iThome,武漢肺炎效應：3月美國遊戲機銷售量成長63% | iThome
+12,行銷,https://www.ithome.com.tw/news/137161,Google Shopping將開放商家免費刊登 | iThome,Google Shopping將開放商家免費刊登 | iThome
+13,AI與大數據,https://www.ithome.com.tw/news/137144,Nvidia與倫敦國王學院合作開源醫療影像用AI框架MONAI | iThome,Nvidia與倫敦國王學院合作開源醫療影像用AI框架MONAI | iThome
+14,財經,https://www.managertoday.com.tw/english/view/59430,新冠肺炎害了全球，「經濟衝擊」英文怎麼說？ | 經理人,新冠肺炎害了全球，「經濟衝擊」英文怎麼說？ | 經理人
+15,Fintech金融科技,https://www.inside.com.tw/article/19591-verizon-tips-for-online-marleting,疫情衝擊實體業績怎麼辦？Verizon Media 建議：線上內容行銷、AR 體驗克服社交距離 - INSIDE,疫情衝擊實體業績怎麼辦？Verizon Media 建議：線上內容行銷、AR 體驗克服社交距離 - INSIDE
+16,行銷,https://www.ithome.com.tw/news/137161,Google Shopping將開放商家免費刊登 | iThome,Google Shopping將開放商家免費刊登 | iThome
+17,AI與大數據,https://www.ithome.com.tw/news/137144,Nvidia與倫敦國王學院合作開源醫療影像用AI框架MONAI | iThome,Nvidia與倫敦國王學院合作開源醫療影像用AI框架MONAI | iThome
+18,財經,https://www.managertoday.com.tw/english/view/59430,新冠肺炎害了全球，「經濟衝擊」英文怎麼說？ | 經理人,新冠肺炎害了全球，「經濟衝擊」英文怎麼說？ | 經理人
+19,Fintech金融科技,https://www.inside.com.tw/article/19591-verizon-tips-for-online-marleting,疫情衝擊實體業績怎麼辦？Verizon Media 建議：線上內容行銷、AR 體驗克服社交距離 - INSIDE,疫情衝擊實體業績怎麼辦？Verizon Media 建議：線上內容行銷、AR 體驗克服社交距離 - INSIDE
+20,Inside,https://www.inside.com.tw/article/19600-Zoom-5-AES-256-GCM,Zoom 發表 5.0 更新，將全面升級 AES 256 位元 GCM 強化資安 - INSIDE,Zoom 發表 5.0 更新，將全面升級 AES 256 位元 GCM 強化資安 - INSIDE
+21,職涯,https://www.inside.com.tw/article/19599-spacex-starlink-satellites-broadband-falcon-9-rocket-launc,SpaceX 再成功發射 60 顆衛星！馬斯克「星鏈」計劃已達初步作戰力 - INSIDE,SpaceX 再成功發射 60 顆衛星！馬斯克「星鏈」計劃已達初步作戰力 - INSIDE
+22,財經,https://www.managertoday.com.tw/articles/view/59631,家樂福、六角、7-11 都發「振興券」， 能有效提高消費嗎？專家解讀 | 經理人,家樂福、六角、7-11 都發「振興券」， 能有效提高消費嗎？專家解讀 | 經理人
+23,資訊安全,https://www.ithome.com.tw/news/137158,中國駭客組織再度監控維吾爾穆斯林，鎖定執行特定版本iOS裝置的族羣下手 | iThome,中國駭客組織再度監控維吾爾穆斯林，鎖定執行特定版本iOS裝置的族羣下手 | iThome
+24,iThome 新聞,https://www.ithome.com.tw/voice/137054,隨機演算之美 | iThome,隨機演算之美 | iThome
+25,Fintech金融科技,https://www.ithome.com.tw/people/137097,傳統實體代幣轉向行動支付，大魯閣改造IT要重塑顧客體驗 | iThome,傳統實體代幣轉向行動支付，大魯閣改造IT要重塑顧客體驗 | iThome
+26,趨勢與策略,https://www.ithome.com.tw/article/137051,用數據打造新型流動資產 | iThome,用數據打造新型流動資產 | iThome
+27,Inside,https://www.inside.com.tw/article/19598-netflix-tv-shows-movies-new-2020-pandemic-production,Netflix：放心，2020 新片絕對夠看，就連 2021 也沒問題 - INSIDE,Netflix：放心，2020 新片絕對夠看，就連 2021 也沒問題 - INSIDE
+28,科技,https://technews.tw/2020/04/23/cxmt-dram-at-2020/?utm_source=fb_tn&utm_medium=facebook,來自中國供應商 DRAM 顆粒正式進入市場，對記憶體前景更添變數 | TechNews 科技新報,來自中國供應商 DRAM 顆粒正式進入市場，對記憶體前景更添變數 | TechNews 科技新報
+29,科技,https://technews.tw/2020/04/22/ic-insights-semiconductor-growth-rate-at-2020/?utm_source=fb_tn&utm_medium=facebook,疫情衝擊，2020 年將創史上首次連第 2 年全球 IC 單位出貨量下滑 | TechNews 科技新報,疫情衝擊，2020 年將創史上首次連第 2 年全球 IC 單位出貨量下滑 | TechNews 科技新報
+30,APP應用程式,https://chinese.engadget.com/chinese-2020-04-23-apple-ios-mail-app-malware-vulnerability.html,iOS 原生郵件應用似乎成為了惡意程式攻擊的缺口,iOS 原生郵件應用似乎成為了惡意程式攻擊的缺口
+31,Engadget,https://chinese.engadget.com/chinese-2020-04-23-samsung-lifestyle-tv-tw.html,Samsung 在臺推出設計生活系列電視,Samsung 在臺推出設計生活系列電視
+32,手機平板,https://chinese.engadget.com/chinese-2020-04-23-meizu-17-teaser.html,魅族 17 官方照片已被放出,魅族 17 官方照片已被放出
+33,Inside,https://www.inside.com.tw/article/19598-netflix-tv-shows-movies-new-2020-pandemic-production,Netflix：放心，2020 新片絕對夠看，就連 2021 也沒問題 - INSIDE,Netflix：放心，2020 新片絕對夠看，就連 2021 也沒問題 - INSIDE
+34,科技,https://technews.tw/2020/04/23/cxmt-dram-at-2020/?utm_source=fb_tn&utm_medium=facebook,來自中國供應商 DRAM 顆粒正式進入市場，對記憶體前景更添變數 | TechNews 科技新報,來自中國供應商 DRAM 顆粒正式進入市場，對記憶體前景更添變數 | TechNews 科技新報
+35,科技,https://technews.tw/2020/04/22/ic-insights-semiconductor-growth-rate-at-2020/?utm_source=fb_tn&utm_medium=facebook,疫情衝擊，2020 年將創史上首次連第 2 年全球 IC 單位出貨量下滑 | TechNews 科技新報,疫情衝擊，2020 年將創史上首次連第 2 年全球 IC 單位出貨量下滑 | TechNews 科技新報
+36,APP應用程式,https://chinese.engadget.com/chinese-2020-04-23-apple-ios-mail-app-malware-vulnerability.html,iOS 原生郵件應用似乎成為了惡意程式攻擊的缺口,iOS 原生郵件應用似乎成為了惡意程式攻擊的缺口
+37,Engadget,https://chinese.engadget.com/chinese-2020-04-23-samsung-lifestyle-tv-tw.html,Samsung 在臺推出設計生活系列電視,Samsung 在臺推出設計生活系列電視
+38,手機平板,https://chinese.engadget.com/chinese-2020-04-23-meizu-17-teaser.html,魅族 17 官方照片已被放出,魅族 17 官方照片已被放出
+39,Engadget,https://chinese.engadget.com/chinese-2020-04-23-magic-leapmagic-leap-layoffs.html,據指 Magic Leap 要裁員近半,據指 Magic Leap 要裁員近半
+40,兩岸,https://www.storm.mg/article/2540416,全球抗疫》拖了3個月確診近萬，終於發布緊急事態：飽受批評的日本佛系防疫-風傳媒,全球抗疫》拖了3個月確診近萬，終於發布緊急事態：飽受批評的日本佛系防疫-風傳媒
+41,BuzzOrange 報橘,https://buzzorange.com/2018/02/13/how_to_read/,閱讀的幾個階段－－你是囫圇吞棗的半瓶水，還是系統性閱讀的思考者？ | BuzzOrange,閱讀的幾個階段－－你是囫圇吞棗的半瓶水，還是系統性閱讀的思考者？ | BuzzOrange
+42,風傳媒 風生活,https://www.storm.mg/lifestyle/2554416,周揚青爆忍受羅志祥約炮、多人運動長達9年！想「感化」愛劈腿的人，從來都是一廂情願-風傳媒,周揚青爆忍受羅志祥約炮、多人運動長達9年！想「感化」愛劈腿的人，從來都是一廂情願-風傳媒
+43,風傳媒 風生活,https://www.storm.mg/lifestyle/2554956,口罩地圖再見！宣佈4月底「功成身退」官網公告一句話暖到哭-風傳媒,口罩地圖再見！宣佈4月底「功成身退」官網公告一句話暖到哭-風傳媒
+44,風傳媒 風生活,https://www.storm.mg/article/2554654,「若磐石艦多來2次……」楊志良揭隱憂：臺灣太乾淨了，不小心就大爆鍋-風傳媒,「若磐石艦多來2次……」楊志良揭隱憂：臺灣太乾淨了，不小心就大爆鍋-風傳媒
+45,職涯,https://www.storm.mg/lifestyle/2554855,對事不對人，不是嘴上說說而已！達人教你「對事不對人」2大溝通技巧，職場生存必備-風傳媒,對事不對人，不是嘴上說說而已！達人教你「對事不對人」2大溝通技巧，職場生存必備-風傳媒
+46,風傳媒 風生活,https://www.storm.mg/lifestyle/2552312,募資紐時登廣告，真的對臺灣有幫助嗎？從這些網搜趨勢揭開驚人結果-風傳媒,募資紐時登廣告，真的對臺灣有幫助嗎？從這些網搜趨勢揭開驚人結果-風傳媒
+47,風傳媒 風生活,https://www.storm.mg/article/2524852,全球抗疫》「民主抗疫」不靠封城，僅僅20天就壓平曲線的大韓民國-風傳媒,全球抗疫》「民主抗疫」不靠封城，僅僅20天就壓平曲線的大韓民國-風傳媒
+48,風傳媒 風生活,https://www.storm.mg/article/2552047,「只有海軍有問題？」榮總醫師：這些人也該接受新冠肺炎篩檢-風傳媒,「只有海軍有問題？」榮總醫師：這些人也該接受新冠肺炎篩檢-風傳媒
+49,風傳媒 風生活,https://www.storm.mg/lifestyle/2554404,哈佛那麼有錢，憑什麼拿紓困金？川普一席話讓美國頂尖大學臉都綠了-風傳媒,哈佛那麼有錢，憑什麼拿紓困金？川普一席話讓美國頂尖大學臉都綠了-風傳媒
+50,風傳媒 風生活,https://www.storm.mg/article/2524852,全球抗疫》「民主抗疫」不靠封城，僅僅20天就壓平曲線的大韓民國-風傳媒,全球抗疫》「民主抗疫」不靠封城，僅僅20天就壓平曲線的大韓民國-風傳媒
+51,風傳媒 風生活,https://www.storm.mg/article/2552047,「只有海軍有問題？」榮總醫師：這些人也該接受新冠肺炎篩檢-風傳媒,「只有海軍有問題？」榮總醫師：這些人也該接受新冠肺炎篩檢-風傳媒
+52,風傳媒 風生活,https://www.storm.mg/lifestyle/2554404,哈佛那麼有錢，憑什麼拿紓困金？川普一席話讓美國頂尖大學臉都綠了-風傳媒,哈佛那麼有錢，憑什麼拿紓困金？川普一席話讓美國頂尖大學臉都綠了-風傳媒
+53,風傳媒 風生活,https://www.storm.mg/article/2538478,全球抗疫》不只首相重病，還有搖搖欲墜的醫療體系：英國「佛系防疫大冒險」的失速急轉彎-風傳媒,全球抗疫》不只首相重病，還有搖搖欲墜的醫療體系：英國「佛系防疫大冒險」的失速急轉彎-風傳媒
+54,風傳媒 風生活,https://www.storm.mg/lifestyle/2554132,太孤單？美國人在家防疫狂收養毛孩！收容所全員歡呼：有史以來第一次「犬舍清空」-風傳媒,太孤單？美國人在家防疫狂收養毛孩！收容所全員歡呼：有史以來第一次「犬舍清空」-風傳媒
+55,風傳媒 風生活,https://www.storm.mg/article/2546703,日本餐飲老闆從「吃」看臺灣防疫：臺式正能量超前部署成為醫護後盾！-風傳媒,日本餐飲老闆從「吃」看臺灣防疫：臺式正能量超前部署成為醫護後盾！-風傳媒
+56,醫療健康,https://www.storm.mg/article/2540177,全球抗疫》模範生遇下半場逆襲！確診數20天暴增8倍　「跑得比病毒還快」的新加坡模式為何失守？-風傳媒,全球抗疫》模範生遇下半場逆襲！確診數20天暴增8倍　「跑得比病毒還快」的新加坡模式為何失守？-風傳媒
+57,Engadget,https://chinese.engadget.com/chinese-2020-04-22-g203-lightsync-rgb.html,羅技為 G203 Lightsync 升級 RGB 燈光,羅技為 G203 Lightsync 升級 RGB 燈光
+58,戶外路跑,https://www.storm.mg/lifestyle/2550199,戶外跑步比室內還危險？最新研究：慢跑時，社交距離要「這麼寬」才夠-風傳媒,戶外跑步比室內還危險？最新研究：慢跑時，社交距離要「這麼寬」才夠-風傳媒
+59,風傳媒 風生活,https://www.storm.mg/article/2524868,全球抗疫》義大利壓平疫情曲線了嗎？它的慘痛經驗帶給世界什麼教訓？-風傳媒,全球抗疫》義大利壓平疫情曲線了嗎？它的慘痛經驗帶給世界什麼教訓？-風傳媒
+60,網紅經濟與自媒體,https://www.smartm.com.tw/Article/36333339cea3,你也被臉書「24政策」限縮行銷空間？讓CHATISFY 聊天機器人助你破解困境 | SmartM 新網路科技,你也被臉書「24政策」限縮行銷空間？讓CHATISFY 聊天機器人助你破解困境 | SmartM 新網路科技
+61,風傳媒 風生活,https://www.storm.mg/article/2553228,臺灣現在該封城嗎？賴清德深夜發文這樣說-風傳媒,臺灣現在該封城嗎？賴清德深夜發文這樣說-風傳媒
+62,風傳媒 風生活,https://www.storm.mg/article/2552729,「疫情造成的影響比海嘯嚴重！」印尼確診人數激增、醫療用品與篩檢能量不足 專家痛批：佐科威總統領導不力-風傳媒,「疫情造成的影響比海嘯嚴重！」印尼確診人數激增、醫療用品與篩檢能量不足 專家痛批：佐科威總統領導不力-風傳媒
+63,蘋果專區,https://chinese.engadget.com/chinese-2020-04-22-6-phones-to-choose-in-hk-instead-of-iphone-se.html,不買 iPhone SE，在香港同價位的 6 臺手機選擇,不買 iPhone SE，在香港同價位的 6 臺手機選擇
+64,國際,https://www.storm.mg/article/2551774,在場官員比援助物資還多！大陣仗舉行交接儀式　中國提供敘利亞2箱篩檢試劑-風傳媒,在場官員比援助物資還多！大陣仗舉行交接儀式　中國提供敘利亞2箱篩檢試劑-風傳媒
+65,風傳媒 風生活,https://www.storm.mg/article/2551778,封鎖悲歌》就快到家了……印度12歲失業童工返鄉，徒步跋涉70公里、脫水而死-風傳媒,封鎖悲歌》就快到家了……印度12歲失業童工返鄉，徒步跋涉70公里、脫水而死-風傳媒
+66,美妝保養,https://www.darencademy.com/article/view/id/9141,賽局基礎 之 小祕書的選擇 - 大人學,賽局基礎 之 小祕書的選擇 - 大人學
+67,風傳媒 風生活,https://www.storm.mg/article/2552729,「疫情造成的影響比海嘯嚴重！」印尼確診人數激增、醫療用品與篩檢能量不足 專家痛批：佐科威總統領導不力-風傳媒,「疫情造成的影響比海嘯嚴重！」印尼確診人數激增、醫療用品與篩檢能量不足 專家痛批：佐科威總統領導不力-風傳媒
+68,蘋果專區,https://chinese.engadget.com/chinese-2020-04-22-6-phones-to-choose-in-hk-instead-of-iphone-se.html,不買 iPhone SE，在香港同價位的 6 臺手機選擇,不買 iPhone SE，在香港同價位的 6 臺手機選擇
+69,國際,https://www.storm.mg/article/2551774,在場官員比援助物資還多！大陣仗舉行交接儀式　中國提供敘利亞2箱篩檢試劑-風傳媒,在場官員比援助物資還多！大陣仗舉行交接儀式　中國提供敘利亞2箱篩檢試劑-風傳媒
+70,風傳媒 風生活,https://www.storm.mg/article/2551778,封鎖悲歌》就快到家了……印度12歲失業童工返鄉，徒步跋涉70公里、脫水而死-風傳媒,封鎖悲歌》就快到家了……印度12歲失業童工返鄉，徒步跋涉70公里、脫水而死-風傳媒
+71,美妝保養,https://www.darencademy.com/article/view/id/9141,賽局基礎 之 小祕書的選擇 - 大人學,賽局基礎 之 小祕書的選擇 - 大人學
+72,SmartM,https://www.smartm.com.tw/Article/36333631cea3,光靠「發問」還不夠！想讓別人主動幫助你，得先學會這些心態 | SmartM 新網路科技,光靠「發問」還不夠！想讓別人主動幫助你，得先學會這些心態 | SmartM 新網路科技
+73,理財,https://meet.bnext.com.tw/articles/view/46206,女力創業的大好時代！CrunchBase 趨勢報告：過去 1 年由女性所打造的獨角獸公司創歷年新高,女力創業的大好時代！CrunchBase 趨勢報告：過去 1 年由女性所打造的獨角獸公司創歷年新高
+74,數位時代,https://www.bnext.com.tw/article/57398/momo-shareholder-2020-letter,富邦媒林啟峯致股東信：momo做對4件事，從「一站式購足」升級「包辦生活大小事」｜數位時代,富邦媒林啟峯致股東信：momo做對4件事，從「一站式購足」升級「包辦生活大小事」｜數位時代
+75,科技,https://www.techbang.com/posts/77987-amd-launches-ryzen-3-3300x-and-ryzen-3-3100-with-zen2-and-b550-chipset-support-pcie-40,AMD 推出 Zen 2 微架構第三代 Ryzen 3 3300X 和 Ryzen 3 3100，B550 晶片組同享 PCIe 4.0 | T客邦,AMD 推出 Zen 2 微架構第三代 Ryzen 3 3300X 和 Ryzen 3 3100，B550 晶片組同享 PCIe 4.0 | T客邦
+76,行銷,https://www.bnext.com.tw/article/57238/digital-ad-frauds,"年損1,900億元！小心數位廣告作弊，搞懂無效流量、避免行銷預算被詐騙｜數位時代","年損1,900億元！小心數位廣告作弊，搞懂無效流量、避免行銷預算被詐騙｜數位時代"
+77,行銷,https://www.bnext.com.tw/article/57290/online-curator,實體活動都取消該怎麼辦？行銷人看過來，「線上策展」必備戰略｜數位時代,實體活動都取消該怎麼辦？行銷人看過來，「線上策展」必備戰略｜數位時代
+78,理財,https://www.bnext.com.tw/article/57409/taya-solar-power-low-oil-price-period,大亞32億元聯貸案到手，把養殖漁塭變身太陽能電廠成首例｜數位時代,大亞32億元聯貸案到手，把養殖漁塭變身太陽能電廠成首例｜數位時代
+79,資訊安全,https://www.bnext.com.tw/article/57411/zoom-5-update-security-privacy-update,Zoom 5.0安全更新來了，3大重點強化線上會議隱私｜數位時代,Zoom 5.0安全更新來了，3大重點強化線上會議隱私｜數位時代
+80,趨勢與策略,https://www.bnext.com.tw/article/57405/digital-marketing-google-covid19-talent,Google啟動8千名行銷人培育計畫，補疫情劃破的數位人才大缺口｜數位時代,Google啟動8千名行銷人培育計畫，補疫情劃破的數位人才大缺口｜數位時代
+81,商業,https://www.bnext.com.tw/article/57408/whale-2020-delta-foundation,臺達電首支8K海洋紀錄片《鯨碳之歌》，號召民眾用創作解密座頭鯨語言｜數位時代,臺達電首支8K海洋紀錄片《鯨碳之歌》，號召民眾用創作解密座頭鯨語言｜數位時代
+82,科技,https://www.techbang.com/posts/77932-asus-self-exposed-z490-host-version-of-information-of-course-support-intel-10th-generation-processor,Asus自曝Z490主機版資訊，當然是支援Intel第10代處理器 | T客邦,Asus自曝Z490主機版資訊，當然是支援Intel第10代處理器 | T客邦
+83,數位時代,https://www.bnext.com.tw/article/57407/a2-milk-ilovemilk,鮮乳坊推出臺灣第一支「A2鮮奶」，要讓喝牛奶會肚子痛的人也能喝！｜數位時代,鮮乳坊推出臺灣第一支「A2鮮奶」，要讓喝牛奶會肚子痛的人也能喝！｜數位時代
+84,科技,https://www.techbang.com/posts/77932-asus-self-exposed-z490-host-version-of-information-of-course-support-intel-10th-generation-processor,Asus自曝Z490主機版資訊，當然是支援Intel第10代處理器 | T客邦,Asus自曝Z490主機版資訊，當然是支援Intel第10代處理器 | T客邦
+85,數位時代,https://www.bnext.com.tw/article/57407/a2-milk-ilovemilk,鮮乳坊推出臺灣第一支「A2鮮奶」，要讓喝牛奶會肚子痛的人也能喝！｜數位時代,鮮乳坊推出臺灣第一支「A2鮮奶」，要讓喝牛奶會肚子痛的人也能喝！｜數位時代
+86,數位時代,https://www.bnext.com.tw/article/57413/covid-19-youtube-who,YouTube採強硬措施！CEO：疫情相關不實影片將刪除，一切以WHO說法為基準｜數位時代,YouTube採強硬措施！CEO：疫情相關不實影片將刪除，一切以WHO說法為基準｜數位時代
+87,蘋果專區,https://www.bnext.com.tw/article/57414/iphone-ipad-zero-day-hack,iPhone、iPad爆出漏洞！駭客一封空白郵件，就能盜走手機資料｜數位時代,iPhone、iPad爆出漏洞！駭客一封空白郵件，就能盜走手機資料｜數位時代
+88,BRANDinLABS · 品牌癮,https://www.brandinlabs.com/2020/04/22/【案例】一件burberry-trench-風衣的誕生/,【案例】一件Burberry Trench 風衣的誕生 | 品牌癮－法博思品牌顧問,【案例】一件Burberry Trench 風衣的誕生 | 品牌癮－法博思品牌顧問
+89,數位時代,https://edm.managertoday.com.tw/data/?utm_source=facebook_bn&utm_medium=post&utm_campaign=202006data,商業數據分析與圖像表達｜超過3000+學員參訓的Excel、圖表課，一致好評！｜經理人商學院,商業數據分析與圖像表達｜超過3000+學員參訓的Excel、圖表課，一致好評！｜經理人商學院
+90,寵物,https://agirls.aotter.net/post/57219?utm_source=facebook.com&utm_medium=aottergirls&utm_campaign=link,FBI 警告這些照片不要 PO 社羣！寵物照片也可能提高被盜高風險 - 電獺少女,FBI 警告這些照片不要 PO 社羣！寵物照片也可能提高被盜高風險 - 電獺少女
+91,資訊安全,https://www.techbang.com/posts/77866-overseas-online-purchase-package-real-name-system-4-related-q-a-why-do-you-do-identity-authentication-cant-i-get-an-overseas-package-without-certification,「海外網購包裹實名制」4 個相關 Q&A：為什麼要做身分認證？若沒有認證我會領不到海外包裹嗎？ | T客邦,「海外網購包裹實名制」4 個相關 Q&A：為什麼要做身分認證？若沒有認證我會領不到海外包裹嗎？ | T客邦
+92,3C產品,https://www.techbang.com/posts/78027-garmin-launches-mother-to-be-smart-hand-minimum-3388-yuan-and-send-a-lot-of-good,Garmin 推出母親節優惠，智慧手環最低 3388 元起、再送多款好禮 | T客邦,Garmin 推出母親節優惠，智慧手環最低 3388 元起、再送多款好禮 | T客邦
+93,手機平板,https://www.techbang.com/posts/78014-nda-to-4-23-1400-samsung-launches-new-2020-design-life-series-tv-on-taiwan-emphasizing-aesthetic-concepts-style-shaping-and-flip-features,三星在臺推出全新 2020 設計生活系列電視，分別強調美學概念，風格塑造以及「翻轉」功能 | T客邦,三星在臺推出全新 2020 設計生活系列電視，分別強調美學概念，風格塑造以及「翻轉」功能 | T客邦
+94,理財,https://www.storm.mg/article/2555224,油價暴「負」恐傷及風險資產，但不影響信用債的中期前景-風傳媒,油價暴「負」恐傷及風險資產，但不影響信用債的中期前景-風傳媒
+95,財經,https://www.storm.mg/article/2555131,2100億紓困特別預算通過　公益彩券經銷商、社區大學也可獲補助 -風傳媒,2100億紓困特別預算通過　公益彩券經銷商、社區大學也可獲補助 -風傳媒
+96,國際,https://www.thenewslens.com/article/134207,川普正式簽署60天移民禁令：哪些人會受影響、誰可以豁免？ - The News Lens 關鍵評論網,川普正式簽署60天移民禁令：哪些人會受影響、誰可以豁免？ - The News Lens 關鍵評論網
+97,Google專區,https://www.techbang.com/posts/76637-10-google-earth-live-symmes-set-map-style-to-create-an-exclusive-display-look,Google地球活用術：設定「地圖樣式」打造專屬展示外觀 | T客邦,Google地球活用術：設定「地圖樣式」打造專屬展示外觀 | T客邦
+98,The News Lens 關鍵評論網,https://www.thenewslens.com/article/134202,走樣變形，法律武器煉成 - The News Lens 關鍵評論網,走樣變形，法律武器煉成 - The News Lens 關鍵評論網
+99,資訊安全,https://www.techbang.com/posts/77882-microsoft-has-developed-an-ai-system-that-identifies-critical-security-vulnerabilities-with-97-accuracy,微軟開發了一種AI系統，辨識關鍵安全漏洞準確率高達97% | T客邦,微軟開發了一種AI系統，辨識關鍵安全漏洞準確率高達97% | T客邦
+100,The News Lens 關鍵評論網,https://www.thenewslens.com/article/134200,再見塵某 - The News Lens 關鍵評論網,再見塵某 - The News Lens 關鍵評論網
+101,國際,https://www.thenewslens.com/article/134207,川普正式簽署60天移民禁令：哪些人會受影響、誰可以豁免？ - The News Lens 關鍵評論網,川普正式簽署60天移民禁令：哪些人會受影響、誰可以豁免？ - The News Lens 關鍵評論網
+102,Google專區,https://www.techbang.com/posts/76637-10-google-earth-live-symmes-set-map-style-to-create-an-exclusive-display-look,Google地球活用術：設定「地圖樣式」打造專屬展示外觀 | T客邦,Google地球活用術：設定「地圖樣式」打造專屬展示外觀 | T客邦
+103,The News Lens 關鍵評論網,https://www.thenewslens.com/article/134202,走樣變形，法律武器煉成 - The News Lens 關鍵評論網,走樣變形，法律武器煉成 - The News Lens 關鍵評論網
+104,資訊安全,https://www.techbang.com/posts/77882-microsoft-has-developed-an-ai-system-that-identifies-critical-security-vulnerabilities-with-97-accuracy,微軟開發了一種AI系統，辨識關鍵安全漏洞準確率高達97% | T客邦,微軟開發了一種AI系統，辨識關鍵安全漏洞準確率高達97% | T客邦
+105,The News Lens 關鍵評論網,https://www.thenewslens.com/article/134200,再見塵某 - The News Lens 關鍵評論網,再見塵某 - The News Lens 關鍵評論網
+106,科技,https://www.techbang.com/posts/78023-gogoro-under-the-full-program-ex-delivery-ultimatum-may-10-before-the-deadline-for-the-transfer-of-the-merchants-or-other-penalties,Gogoro對利用吃到飽方案進行外送者下最後通牒，5月10日前限期商轉否則開罰﻿ | T客邦,Gogoro對利用吃到飽方案進行外送者下最後通牒，5月10日前限期商轉否則開罰﻿ | T客邦
+107,The News Lens 關鍵評論網,https://www.thenewslens.com/article/133934,《國際橋牌社》：歷史文化是娛樂產業的根基，我們都離不開橋牌桌 - The News Lens 關鍵評論網,《國際橋牌社》：歷史文化是娛樂產業的根基，我們都離不開橋牌桌 - The News Lens 關鍵評論網
+108,國際,https://www.storm.mg/article/2554802,客運業務進入寒冬，華航靠eMall減少失血-風傳媒,客運業務進入寒冬，華航靠eMall減少失血-風傳媒
+109,The News Lens 關鍵評論網,https://www.thenewslens.com/article/134151,新冠肺炎下的菲律賓社會，誰是防疫過程中被忽略的「潛在犧牲者」？ - The News Lens 關鍵評論網,新冠肺炎下的菲律賓社會，誰是防疫過程中被忽略的「潛在犧牲者」？ - The News Lens 關鍵評論網
+110,攝影,https://www.techbang.com/posts/77829-olympus-om-d-e-m1-mark-iii-micro-single-flagship-new-rod,Olympus OM-D E-M1 Mark III－ 微單旗艦新標竿 | T客邦,Olympus OM-D E-M1 Mark III－ 微單旗艦新標竿 | T客邦
+111,理財,https://www.storm.mg/article/2546768,新冠肺炎風暴》全球經濟水深火熱之際，現在進場最該看這3個指標-風傳媒,新冠肺炎風暴》全球經濟水深火熱之際，現在進場最該看這3個指標-風傳媒
+112,職涯,https://www.storm.mg/article/2550540,新新聞》「紓困陳時中」龔明鑫收視率不如正牌阿中-風傳媒,新新聞》「紓困陳時中」龔明鑫收視率不如正牌阿中-風傳媒
+113,科技,https://www.techbang.com/posts/78018-trump-slams-iranian-gunboats-to-sink-us-troops,不爽伊朗炮艇一直挑釁，川普嗆聲若再騷擾美軍便直接開火擊沉 | T客邦,不爽伊朗炮艇一直挑釁，川普嗆聲若再騷擾美軍便直接開火擊沉 | T客邦
+114,商業,https://www.storm.mg/article/2554414,華爾街日報》油價暴跌下，石油沒地方擺？超級油輪運費暴增15倍-風傳媒,華爾街日報》油價暴跌下，石油沒地方擺？超級油輪運費暴增15倍-風傳媒
+115,商業,https://www.storm.mg/article/2554189,新興債雙高優勢　投資吸引力顯現-風傳媒,新興債雙高優勢　投資吸引力顯現-風傳媒
+116,APP應用程式,https://www.techbang.com/posts/76709-can-fold-screen-phones-increase-our-productivity,上折、側折、左折、右折？折疊螢幕手機該怎麼折，才能提高我們的生產力 | T客邦,上折、側折、左折、右折？折疊螢幕手機該怎麼折，才能提高我們的生產力 | T客邦
+117,科技,https://free.com.tw/sharedrop/?utm_content=bufferf8cc4&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer,ShareDrop 將手機裡相片影片傳到電腦，只需打開瀏覽器掃描 QR Code,ShareDrop 將手機裡相片影片傳到電腦，只需打開瀏覽器掃描 QR Code
+118,APP應用程式,https://www.techbang.com/posts/76709-can-fold-screen-phones-increase-our-productivity,上折、側折、左折、右折？折疊螢幕手機該怎麼折，才能提高我們的生產力 | T客邦,上折、側折、左折、右折？折疊螢幕手機該怎麼折，才能提高我們的生產力 | T客邦
+119,科技,https://free.com.tw/sharedrop/?utm_content=bufferf8cc4&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer,ShareDrop 將手機裡相片影片傳到電腦，只需打開瀏覽器掃描 QR Code,ShareDrop 將手機裡相片影片傳到電腦，只需打開瀏覽器掃描 QR Code
+120,科技,https://www.techbang.com/posts/77998-september-ifa-show-canceled,九月德國 IFA 展取消實體活動，將會改以其他方式舉辦 | T客邦,九月德國 IFA 展取消實體活動，將會改以其他方式舉辦 | T客邦
+121,理財,https://www.storm.mg/article/2519905,巴菲特不是看壞航空股，也沒有出清！股神減碼，原因其實是這個-風傳媒,巴菲特不是看壞航空股，也沒有出清！股神減碼，原因其實是這個-風傳媒
+122,科技,https://www.techbang.com/posts/77962-irobot-roomba-s9-plus-sweeping-robots-that-clean-and-clear-garbage,iRobot Roomba s9+－ 打掃、清垃圾都不動手的掃地機器人 | T客邦,iRobot Roomba s9+－ 打掃、清垃圾都不動手的掃地機器人 | T客邦
+123,PanSci 科學新聞網,https://pansci.asia/archives/183979,仰望宇宙的好據點，大國爭相來插旗：「白山」毛納基亞——《黑洞捕手》 - PanSci 泛科學,仰望宇宙的好據點，大國爭相來插旗：「白山」毛納基亞——《黑洞捕手》 - PanSci 泛科學
+124,科技,https://www.techbang.com/posts/77900-roadside-fire-to-jeep-actually-this-is-the-jeep-wrangler-exterior-bbq-camp-fire,路邊驚見火燒吉普車？其實這是 Jeep Wrangler 外型的 BBQ 營火 | T客邦,路邊驚見火燒吉普車？其實這是 Jeep Wrangler 外型的 BBQ 營火 | T客邦
+125,理財,https://www.stockfeel.com.tw/?p=78482&utm_source=facebook&utm_medium=article&utm_campaign=20200423_08,貨幣型基金，資金的臨時避風港！ - StockFeel 股感,貨幣型基金，資金的臨時避風港！ - StockFeel 股感
+126,創業,https://www.techbang.com/posts/77945-food-farmers-new-national-team-introduces-seed-fund-investment-to-launch-accelerator-admissions,「食農新創國家隊」引入種子基金投資，啟動加速器招生 | T客邦,「食農新創國家隊」引入種子基金投資，啟動加速器招生 | T客邦
+127,The News Lens 關鍵評論網,https://www.thenewslens.com/article/134185,蔣中正出版《中國之命運》，是因為害怕被貼上「漢奸」的標籤 - The News Lens 關鍵評論網,蔣中正出版《中國之命運》，是因為害怕被貼上「漢奸」的標籤 - The News Lens 關鍵評論網
+128,The News Lens 關鍵評論網,https://www.thenewslens.com/article/134159,白宮記者張經義爭議的要害：他供職的不是媒體，而是中共宣傳機構 - The News Lens 關鍵評論網,白宮記者張經義爭議的要害：他供職的不是媒體，而是中共宣傳機構 - The News Lens 關鍵評論網
+129,財經,https://www.thenewslens.com/article/133714,從經濟援助到太空軍事合作，中國藉阿根廷「登陸」南美洲 - The News Lens 關鍵評論網,從經濟援助到太空軍事合作，中國藉阿根廷「登陸」南美洲 - The News Lens 關鍵評論網
+130,The News Lens 關鍵評論網,https://www.thenewslens.com/article/134168,臺灣在疫情外的兩條關鍵戰線：譚德塞謊言與中國軍事壓力 - The News Lens 關鍵評論網,臺灣在疫情外的兩條關鍵戰線：譚德塞謊言與中國軍事壓力 - The News Lens 關鍵評論網
+131,The News Lens 關鍵評論網,https://www.thenewslens.com/article/134015,近代有名的商業騙局：安隆風暴、「惡血」醜聞與瑞幸咖啡造假 - The News Lens 關鍵評論網,近代有名的商業騙局：安隆風暴、「惡血」醜聞與瑞幸咖啡造假 - The News Lens 關鍵評論網
+132,財經,https://www.thenewslens.com/article/134158,負油價重點QA：現貨和期貨的差別在哪？真的會出現倒賠買原油的情況嗎？ - The News Lens 關鍵評論網,負油價重點QA：現貨和期貨的差別在哪？真的會出現倒賠買原油的情況嗎？ - The News Lens 關鍵評論網
+133,理財,https://www.thenewslens.com/article/134187,非常時期用非常方法：對所有人課1%「防疫特別稅」，再平均分配 - The News Lens 關鍵評論網,非常時期用非常方法：對所有人課1%「防疫特別稅」，再平均分配 - The News Lens 關鍵評論網
+134,The News Lens 關鍵評論網,https://www.thenewslens.com/article/134196,性剝削之下的責任歸屬：N號房事件中「只觀看沒施暴」的人有罪嗎？ - The News Lens 關鍵評論網,性剝削之下的責任歸屬：N號房事件中「只觀看沒施暴」的人有罪嗎？ - The News Lens 關鍵評論網
+135,The News Lens 關鍵評論網,https://www.thenewslens.com/article/134015,近代有名的商業騙局：安隆風暴、「惡血」醜聞與瑞幸咖啡造假 - The News Lens 關鍵評論網,近代有名的商業騙局：安隆風暴、「惡血」醜聞與瑞幸咖啡造假 - The News Lens 關鍵評論網
+136,財經,https://www.thenewslens.com/article/134158,負油價重點QA：現貨和期貨的差別在哪？真的會出現倒賠買原油的情況嗎？ - The News Lens 關鍵評論網,負油價重點QA：現貨和期貨的差別在哪？真的會出現倒賠買原油的情況嗎？ - The News Lens 關鍵評論網
+137,理財,https://www.thenewslens.com/article/134187,非常時期用非常方法：對所有人課1%「防疫特別稅」，再平均分配 - The News Lens 關鍵評論網,非常時期用非常方法：對所有人課1%「防疫特別稅」，再平均分配 - The News Lens 關鍵評論網
+138,The News Lens 關鍵評論網,https://www.thenewslens.com/article/134196,性剝削之下的責任歸屬：N號房事件中「只觀看沒施暴」的人有罪嗎？ - The News Lens 關鍵評論網,性剝削之下的責任歸屬：N號房事件中「只觀看沒施暴」的人有罪嗎？ - The News Lens 關鍵評論網
+139,職涯,https://www.thenewslens.com/article/134154,避風港成親情煉獄：「新冠壓力症候羣」正在隔離全世界的心 - The News Lens 關鍵評論網,避風港成親情煉獄：「新冠壓力症候羣」正在隔離全世界的心 - The News Lens 關鍵評論網
+140,The News Lens 關鍵評論網,https://www.thenewslens.com/article/133928,以「愛」之名的同婚合法化，依舊改變不了陽剛霸權的軍隊文化 - The News Lens 關鍵評論網,以「愛」之名的同婚合法化，依舊改變不了陽剛霸權的軍隊文化 - The News Lens 關鍵評論網
+141,財經,https://www.storm.mg/article/2547031,風評：圖利特定業者？酷碰券問題不在此而在….-風傳媒,風評：圖利特定業者？酷碰券問題不在此而在….-風傳媒
+142,科技,https://www.techbang.com/posts/77887-onrobot-launches-25d-vision-system-eyes-for-easier-visual-guidance-applications,OnRobot推出2.5D視覺系統Eyes，讓視覺導引應用更簡便 | T客邦,OnRobot推出2.5D視覺系統Eyes，讓視覺導引應用更簡便 | T客邦
+143,網紅經濟與自媒體,https://www.vistacheng.com/2020/04/why-get-certified.html,我該考認證嗎？有實力的人，才能在職場上通行無阻,我該考認證嗎？有實力的人，才能在職場上通行無阻
+144,The News Lens 關鍵評論網,https://www.thenewslens.com/article/133910?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNewsLens+%28The+News+Lens+%E9%97%9C%E9%8D%B5%E8%A9%95%E8%AB%96%E7%B6%B2%29,《媽祖婆靈聖》：從「娘媽」晉升「聖母」，媽祖靈力的來源有哪些說法？ - The News Lens 關鍵評論網,《媽祖婆靈聖》：從「娘媽」晉升「聖母」，媽祖靈力的來源有哪些說法？ - The News Lens 關鍵評論網
+145,The News Lens 關鍵評論網,https://www.thenewslens.com/article/133876?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNewsLens+%28The+News+Lens+%E9%97%9C%E9%8D%B5%E8%A9%95%E8%AB%96%E7%B6%B2%29,《你很重要！》：你必須先成為別人的朋友，才能交到朋友 - The News Lens 關鍵評論網,《你很重要！》：你必須先成為別人的朋友，才能交到朋友 - The News Lens 關鍵評論網
+146,鄭緯筌 （Vista Cheng）,https://www.vistacheng.com/2020/04/output-thinking.html?utm_source=fb&utm_medium=blog&utm_campaign=recommend,想要打造獨特的個人品牌？請從輸入型思維，轉換為行動派的輸出型思維,想要打造獨特的個人品牌？請從輸入型思維，轉換為行動派的輸出型思維
+147,職涯,https://buzzorange.com/techorange/2018/11/28/how-to-play-a-good-game-in-office-politics/,【人在江湖飄，哪能不挨刀】傳授 3 個「辦公室政治」技巧，讓你在職場不吃大虧！ | TechOrange,【人在江湖飄，哪能不挨刀】傳授 3 個「辦公室政治」技巧，讓你在職場不吃大虧！ | TechOrange
+148,換日線 Crossing,https://crossing.cw.com.tw/article/12203?utm_source=fb_crossing&utm_medium=social&utm_campaign=fb_crossing-social-daily_repost,紅遍歐美的「無酒精啤酒」，到底有什麼來頭？ ｜ 臺客 J／臺客 J 的橘色筆記 ｜ 換日線 Crossing,紅遍歐美的「無酒精啤酒」，到底有什麼來頭？ ｜ 臺客 J／臺客 J 的橘色筆記 ｜ 換日線 Crossing
+149,Dr. AI,https://www.cupoy.com/news/00000171A54240D2000000036375706F795F72656C65617365494E455753,自以為是計劃，結果反生技術債，開源代碼應該注意這五大誤區！,自以為是計劃，結果反生技術債，開源代碼應該注意這五大誤區！
+150,AI與大數據,https://www.cupoy.com/news/00000171A52A9A15000000016375706F795F72656C65617365494E455753,世界首部 AI 創作漫畫正式發表：StyleGAN 神還原《原子小金剛》畫風，繼承手塚治虫衣缽！,世界首部 AI 創作漫畫正式發表：StyleGAN 神還原《原子小金剛》畫風，繼承手塚治虫衣缽！
+151,生活報橘-VidaOrange,https://buzzorange.com/vidaorange/2016/10/11/don-not-be-afraid-of-love/,一張圖表看「愛情失敗組」與「愛情勝利組」的差別，其實只差在一個想法！ | VidaOrange,一張圖表看「愛情失敗組」與「愛情勝利組」的差別，其實只差在一個想法！ | VidaOrange
+152,AI與大數據,https://www.cupoy.com/news/00000171A52A9A15000000016375706F795F72656C65617365494E455753,世界首部 AI 創作漫畫正式發表：StyleGAN 神還原《原子小金剛》畫風，繼承手塚治虫衣缽！,世界首部 AI 創作漫畫正式發表：StyleGAN 神還原《原子小金剛》畫風，繼承手塚治虫衣缽！
+153,生活報橘-VidaOrange,https://buzzorange.com/vidaorange/2016/10/11/don-not-be-afraid-of-love/,一張圖表看「愛情失敗組」與「愛情勝利組」的差別，其實只差在一個想法！ | VidaOrange,一張圖表看「愛情失敗組」與「愛情勝利組」的差別，其實只差在一個想法！ | VidaOrange
+154,APP應用程式,https://www.newmobilelife.com/2020/04/23/ios-mail-zero-day/,影響 5 億用戶　iOS 電郵 App 出現 Zero-Day 漏洞專家建議暫停使用 - New MobileLife 流動日報,影響 5 億用戶　iOS 電郵 App 出現 Zero-Day 漏洞專家建議暫停使用 - New MobileLife 流動日報
+155,蘋果專區,https://www.newmobilelife.com/2020/04/23/guard-ninja-2/,為 iPhone 加入警報系統　陌生人拿起我的 iPhone 立即響 - New MobileLife 流動日報,為 iPhone 加入警報系統　陌生人拿起我的 iPhone 立即響 - New MobileLife 流動日報
+156,流動日報,https://www.newmobilelife.com/2020/04/23/%e9%9b%86%e5%90%88%e5%95%a6-%e5%8b%95%e7%89%a9%e6%a3%ae%e5%8f%8b%e6%9c%83-free-update-1-2-0/,《集合啦！動物森友會》免費更新今日登場 - New MobileLife 流動日報,《集合啦！動物森友會》免費更新今日登場 - New MobileLife 流動日報
+157,流動日報,https://www.newmobilelife.com/2020/04/23/low-polar/,拍立得照相機《 Low Polar 》所有主題任你免費用 - New MobileLife 流動日報,拍立得照相機《 Low Polar 》所有主題任你免費用 - New MobileLife 流動日報
+158,大人學-財務知識,https://www.darencademy.com/article/view/id/16689,明明是專業人士，卻聽不懂他在講什麼！為何跨領域溝通這麼難？  - 大人學,明明是專業人士，卻聽不懂他在講什麼！為何跨領域溝通這麼難？  - 大人學
+159,Fliper Mag,https://flipermag.com/2020/04/23/keita-morimoto-paintings-about-the-night/,受到孤獨畫師 Edward Hopper 的啟發，一窺日本藝術家森本圭太筆下的夜生活之美！ | FLiPER,受到孤獨畫師 Edward Hopper 的啟發，一窺日本藝術家森本圭太筆下的夜生活之美！ | FLiPER
+160,平面設計,https://flipermag.com/2020/04/23/tamsui-kavalan-trails-northern-trail/,一本在手、爬山不愁！早起設計攜手公部門，製作充滿歷史氣味的《淡蘭古道北路精裝指南》 | FLiPER,一本在手、爬山不愁！早起設計攜手公部門，製作充滿歷史氣味的《淡蘭古道北路精裝指南》 | FLiPER
+161,Fliper Mag,https://flipermag.com/2020/04/23/jessy-tsai-interview/,還在成為「我」的路上，所以給自己的 #hashtag 是空白 ── 專訪蔡傑曦 Jessy Tsai | FLiPER,還在成為「我」的路上，所以給自己的 #hashtag 是空白 ── 專訪蔡傑曦 Jessy Tsai | FLiPER
+162,動腦雜誌,https://www.accupass.com/event/2002180140011671281319,ACCUPASS 活動通 － 亞洲最大活動平臺 － 找活動辦活動的首選,ACCUPASS 活動通 － 亞洲最大活動平臺 － 找活動辦活動的首選
+163,PanSci 科學新聞網,https://pansci.asia/archives/issues/earthday2020,特輯：Earth Day 2020 地球，我罩的 - PanSci 泛科學,特輯：Earth Day 2020 地球，我罩的 - PanSci 泛科學
+164,行銷,https://www.brain.com.tw/news/articlecontent?ID=48807&sort,德國超市Netto揭開復活節兔子的來歷 - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺,德國超市Netto揭開復活節兔子的來歷 - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺
+165,PanSci 科學新聞網,https://panmarket.asia/product-category/%E7%92%B0%E4%BF%9D%E9%81%B8%E7%89%A9/?utm_source=422fb,無痕生活環保選物 - 泛科市集,無痕生活環保選物 - 泛科市集
+166,行銷,https://www.brain.com.tw/news/articlecontent?ID=48769&sort,2020趨勢預測 你不能不懂的十個關鍵字（下） - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺,2020趨勢預測 你不能不懂的十個關鍵字（下） - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺
+167,行銷,https://www.brain.com.tw/news/articlecontent?ID=48801&sort,以「策展」思維重新定義廣告 資深廣告人簡志霖加入聯廣 - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺,以「策展」思維重新定義廣告 資深廣告人簡志霖加入聯廣 - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺
+168,行銷,https://www.brain.com.tw/news/articlecontent?ID=48803&sort,2020紐約廣告節入圍名單出爐 臺灣多件作品入圍！ - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺,2020紐約廣告節入圍名單出爐 臺灣多件作品入圍！ - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺
+169,PanSci 科學新聞網,https://panmarket.asia/product-category/%E7%92%B0%E4%BF%9D%E9%81%B8%E7%89%A9/?utm_source=422fb,無痕生活環保選物 - 泛科市集,無痕生活環保選物 - 泛科市集
+170,行銷,https://www.brain.com.tw/news/articlecontent?ID=48769&sort,2020趨勢預測 你不能不懂的十個關鍵字（下） - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺,2020趨勢預測 你不能不懂的十個關鍵字（下） - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺
+171,行銷,https://www.brain.com.tw/news/articlecontent?ID=48801&sort,以「策展」思維重新定義廣告 資深廣告人簡志霖加入聯廣 - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺,以「策展」思維重新定義廣告 資深廣告人簡志霖加入聯廣 - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺
+172,行銷,https://www.brain.com.tw/news/articlecontent?ID=48803&sort,2020紐約廣告節入圍名單出爐 臺灣多件作品入圍！ - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺,2020紐約廣告節入圍名單出爐 臺灣多件作品入圍！ - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺
+173,行銷,https://www.brain.com.tw/news/articlecontent?ID=48784&sort,不是何時、是如何 - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺,不是何時、是如何 - 動腦Brain.com.tw｜行銷．廣告．傳播．創意數位平臺
+174,科技,https://technews.tw/2020/04/22/sst-last-work/?utm_source=fb_tn&utm_medium=facebook,NASA 史匹哲望遠鏡服役 16 餘年完成使命，最後一張星雲圖曝光 | TechNews 科技新報,NASA 史匹哲望遠鏡服役 16 餘年完成使命，最後一張星雲圖曝光 | TechNews 科技新報
+175,汽車,https://technews.tw/2020/04/22/review-2008-roadster-to-know-ev-grow/?utm_source=fb_tn&utm_medium=facebook,回顧 12 年前特斯拉的第一輛 Roadster，才發覺電動車走了多遠 | TechNews 科技新報,回顧 12 年前特斯拉的第一輛 Roadster，才發覺電動車走了多遠 | TechNews 科技新報
+176,科技,https://technews.tw/2020/04/22/faamg-us-technology-stocks/?utm_source=fb_tn&utm_medium=facebook,美股反彈靠 FAAMG？科技股太擁擠，若出場恐劇烈拉回 | TechNews 科技新報,美股反彈靠 FAAMG？科技股太擁擠，若出場恐劇烈拉回 | TechNews 科技新報
+177,職場白領,https://bookstore.emome.net/Homes/action/1/871?utm_source=CP_managertoday&utm_medium=FB&utm_campaign=423readingDay,Hami書城｜423閱讀日在臺灣,Hami書城｜423閱讀日在臺灣
+178,科技,https://technews.tw/2020/04/22/netflix-financial-reporting-2020-q1/?utm_source=fb_tn&utm_medium=facebook,Netflix Q1 訂戶數暴增，但警告疫情效應將消退 | TechNews 科技新報,Netflix Q1 訂戶數暴增，但警告疫情效應將消退 | TechNews 科技新報
+179,科技,https://technews.tw/2020/04/22/cai-bingyi-invented-the-n95-mask/?utm_source=fb_tn&utm_medium=facebook,發明 N95 口罩，蔡秉燚寧救 1 億人不要 1 億美元 | TechNews 科技新報,發明 N95 口罩，蔡秉燚寧救 1 億人不要 1 億美元 | TechNews 科技新報
+180,科技,https://technews.tw/2020/04/22/hbo-cinemax-agent-cut-taipeinets-cable/?utm_source=fb_tn&utm_medium=facebook,HBO 代理商硬起來，斷訊北都恐勢在必行 | TechNews 科技新報,HBO 代理商硬起來，斷訊北都恐勢在必行 | TechNews 科技新報
+181,職場白領,https://edm.managertoday.com.tw/data/?utm_source=facebook_mt&utm_medium=post&utm_campaign=202006data,商業數據分析與圖像表達｜超過3000+學員參訓的Excel、圖表課，一致好評！｜經理人商學院,商業數據分析與圖像表達｜超過3000+學員參訓的Excel、圖表課，一致好評！｜經理人商學院
+182,科技,https://technews.tw/2020/04/22/tsmc-speed-up-n2-research-and-development/?utm_source=fb_tn&utm_medium=facebook,臺積電致股東報告書：於 5G 處最佳位置，將加快 2 奈米研發 | TechNews 科技新報,臺積電致股東報告書：於 5G 處最佳位置，將加快 2 奈米研發 | TechNews 科技新報
+183,BuzzOrange 報橘,https://buzzorange.com/2018/04/18/edible-6-pack-ring-for-sea-creatures/,拒絕再看見海洋動物胃袋裝滿塑膠袋！啤酒商生產能吃的飲料包裝 | BuzzOrange,拒絕再看見海洋動物胃袋裝滿塑膠袋！啤酒商生產能吃的飲料包裝 | BuzzOrange
+184,育兒,https://www.mombaby.com.tw/parenting/babycare/articles/714,4方法養出寶寶良好睡眠習慣｜Mombaby 媽媽寶寶懷孕生活網,4方法養出寶寶良好睡眠習慣｜Mombaby 媽媽寶寶懷孕生活網
+185,MF這樣變型男,https://mf.techbang.com/posts/6785-male-credits-underwear-did-you-really-pick-the-right-one-triangle-pants-four-horned-trousers-close-four-corners-once-put-in-place,【型男學分】內褲你真的選對了嗎？三角、四角、貼身寬鬆一次穿到位！ | manfashion這樣變型男,【型男學分】內褲你真的選對了嗎？三角、四角、貼身寬鬆一次穿到位！ | manfashion這樣變型男
+186,科技,https://technews.tw/2020/04/22/hbo-cinemax-agent-cut-taipeinets-cable/?utm_source=fb_tn&utm_medium=facebook,HBO 代理商硬起來，斷訊北都恐勢在必行 | TechNews 科技新報,HBO 代理商硬起來，斷訊北都恐勢在必行 | TechNews 科技新報
+187,職場白領,https://edm.managertoday.com.tw/data/?utm_source=facebook_mt&utm_medium=post&utm_campaign=202006data,商業數據分析與圖像表達｜超過3000+學員參訓的Excel、圖表課，一致好評！｜經理人商學院,商業數據分析與圖像表達｜超過3000+學員參訓的Excel、圖表課，一致好評！｜經理人商學院
+188,科技,https://technews.tw/2020/04/22/tsmc-speed-up-n2-research-and-development/?utm_source=fb_tn&utm_medium=facebook,臺積電致股東報告書：於 5G 處最佳位置，將加快 2 奈米研發 | TechNews 科技新報,臺積電致股東報告書：於 5G 處最佳位置，將加快 2 奈米研發 | TechNews 科技新報
+189,BuzzOrange 報橘,https://buzzorange.com/2018/04/18/edible-6-pack-ring-for-sea-creatures/,拒絕再看見海洋動物胃袋裝滿塑膠袋！啤酒商生產能吃的飲料包裝 | BuzzOrange,拒絕再看見海洋動物胃袋裝滿塑膠袋！啤酒商生產能吃的飲料包裝 | BuzzOrange
+190,育兒,https://www.mombaby.com.tw/parenting/babycare/articles/714,4方法養出寶寶良好睡眠習慣｜Mombaby 媽媽寶寶懷孕生活網,4方法養出寶寶良好睡眠習慣｜Mombaby 媽媽寶寶懷孕生活網
+191,MF這樣變型男,https://mf.techbang.com/posts/6785-male-credits-underwear-did-you-really-pick-the-right-one-triangle-pants-four-horned-trousers-close-four-corners-once-put-in-place,【型男學分】內褲你真的選對了嗎？三角、四角、貼身寬鬆一次穿到位！ | manfashion這樣變型男,【型男學分】內褲你真的選對了嗎？三角、四角、貼身寬鬆一次穿到位！ | manfashion這樣變型男
+192,點子生活,https://saydigi-tech.com/2020/04/21879.html,Adobe 發布 Team Projects 免費使用權限與 Productions 新功能！ - Saydigi-Tech | 點子科技,Adobe 發布 Team Projects 免費使用權限與 Productions 新功能！ - Saydigi-Tech | 點子科技
+193,汽車,https://incar.tw/post/honda空力不侷限整流罩-搭載尾翼性能車即將問,HONDA空力不侷限整流罩！搭載尾翼的性能街車即將問世？ | 癮車報,HONDA空力不侷限整流罩！搭載尾翼的性能街車即將問世？ | 癮車報
+194,設計,https://pick.mydesy.com/archives/155732,Science Posters Examples | MyDesy 淘靈感,Science Posters Examples | MyDesy 淘靈感
+195,籃球,https://nba.udn.com/nba/story/6780/4510465?utm_source=nbataiwan&utm_medium=fb,自詡史上最強籃板高手 佐蒙德展現自信 | NBA戰況 | NBA 臺灣,自詡史上最強籃板高手 佐蒙德展現自信 | NBA戰況 | NBA 臺灣
+196,籃球,https://nba.udn.com/nba/story/6780/4510380?utm_source=nbataiwan&utm_medium=fb,對阿德巴約寄予厚望 波許：讓我想起魔術強森 | NBA戰況 | NBA 臺灣,對阿德巴約寄予厚望 波許：讓我想起魔術強森 | NBA戰況 | NBA 臺灣
+197,MF這樣變型男,https://mf.techbang.com/posts/2755-and-ambiguous-object-development-best-before-date-5-notes-ready-first,想和曖昧對象順利發展！？約會前最好先準備好的5大注意事項！ | manfashion這樣變型男,想和曖昧對象順利發展！？約會前最好先準備好的5大注意事項！ | manfashion這樣變型男
+198,籃球,https://nba.udn.com/nba/story/6780/4510354?utm_source=nbataiwan&utm_medium=fb,喬丹指責皮本等賽季才動刀 柯爾持不同看法 | NBA戰況 | NBA 臺灣,喬丹指責皮本等賽季才動刀 柯爾持不同看法 | NBA戰況 | NBA 臺灣
+199,商業周刊,https://www.businessweekly.com.tw/careers/blog/24012?utm_source=facebook.com&utm_medium=social&utm_content=bw&utm_campaign=content,在醫院當志工，卻匿名幫病人付上百萬手術費...他教會我的4個做人道理｜商周,在醫院當志工，卻匿名幫病人付上百萬手術費...他教會我的4個做人道理｜商周
+200,旅遊,https://solomo.xinmedia.com/ourdaydream/178847-hualian?utm_source=xinissuefb&utm_medium=fbpost&utm_campaign=xinmedia,蘇花改一日遊│花蓮市這些地方你去了嗎? 日本寺院穿越到祕境河谷-臺九線景點-旅行白日夢-欣傳媒旅遊頻道,蘇花改一日遊│花蓮市這些地方你去了嗎? 日本寺院穿越到祕境河谷-臺九線景點-旅行白日夢-欣傳媒旅遊頻道
+201,籃球,https://nba.udn.com/nba/story/6780/4510359?utm_source=nbataiwan&utm_medium=fb,難忘詹皇昔日提攜指導 威特斯感謝兒子點醒自己 | NBA戰況 | NBA 臺灣,難忘詹皇昔日提攜指導 威特斯感謝兒子點醒自己 | NBA戰況 | NBA 臺灣
+202,運動,https://running.biji.co/index.php?q=news&act=info&id=103427,【知識】你也有痛到跑不下去的『跑者膝』嗎？ ｜ 運動筆記,【知識】你也有痛到跑不下去的『跑者膝』嗎？ ｜ 運動筆記
+203,旅遊,https://solomo.xinmedia.com/ourdaydream/178847-hualian?utm_source=xinissuefb&utm_medium=fbpost&utm_campaign=xinmedia,蘇花改一日遊│花蓮市這些地方你去了嗎? 日本寺院穿越到祕境河谷-臺九線景點-旅行白日夢-欣傳媒旅遊頻道,蘇花改一日遊│花蓮市這些地方你去了嗎? 日本寺院穿越到祕境河谷-臺九線景點-旅行白日夢-欣傳媒旅遊頻道
+204,籃球,https://nba.udn.com/nba/story/6780/4510359?utm_source=nbataiwan&utm_medium=fb,難忘詹皇昔日提攜指導 威特斯感謝兒子點醒自己 | NBA戰況 | NBA 臺灣,難忘詹皇昔日提攜指導 威特斯感謝兒子點醒自己 | NBA戰況 | NBA 臺灣
+205,運動,https://running.biji.co/index.php?q=news&act=info&id=103427,【知識】你也有痛到跑不下去的『跑者膝』嗎？ ｜ 運動筆記,【知識】你也有痛到跑不下去的『跑者膝』嗎？ ｜ 運動筆記
+206,育兒,https://www.mombaby.com.tw/parenting/babycare/articles/523,糾正！10個錯誤餵食寶寶的方法｜Mombaby 媽媽寶寶懷孕生活網,糾正！10個錯誤餵食寶寶的方法｜Mombaby 媽媽寶寶懷孕生活網
+207,商業,https://www.moneynet.com.tw/article/10460/%E4%BD%8E%E6%8E%A5%E9%95%B7%E6%8A%B1%E9%80%9920%E6%AA%94%E5%A5%BD%E8%82%A1%E9%A0%98%E8%82%A1%E6%81%AF%E5%85%BC%E8%B3%BA%E5%83%B9%E5%B7%AE#moneynet_2020-04-22,MONEY錢雜誌─低接長抱這20檔好股 領股息兼賺價差─撰文：龔招健 攝影：張家禎,MONEY錢雜誌─低接長抱這20檔好股 領股息兼賺價差─撰文：龔招健 攝影：張家禎
+208,籃球,https://nba.udn.com/nba/story/6780/4510277?utm_source=nbataiwan&utm_medium=fb,自慚位列最後一舞宣傳圖 柯爾：該擺上庫柯奇 | NBA戰況 | NBA 臺灣,自慚位列最後一舞宣傳圖 柯爾：該擺上庫柯奇 | NBA戰況 | NBA 臺灣
+209,運動,https://running.biji.co/index.php?q=news&act=info&id=103434,【回顧】細數百年歷史 素人跑者的夢幻殿堂「波士頓馬拉鬆」 ｜ 運動筆記,【回顧】細數百年歷史 素人跑者的夢幻殿堂「波士頓馬拉鬆」 ｜ 運動筆記
+210,寵物,https://decomyplace.com/n.php?id=8036,「專訪」一人一貓舒心生活！臺北 16 坪現代質簡寵物宅 - 太硯設計  - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站,「專訪」一人一貓舒心生活！臺北 16 坪現代質簡寵物宅 - 太硯設計  - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站
+211,商業,https://www.moneynet.com.tw/article/10615/%E4%BD%A0%E5%81%9A%E5%A5%BD%E5%AE%8C%E6%95%B4%E4%BF%9D%E9%9A%9C%E8%A6%8F%E5%8A%83%E4%BA%86%E5%97%8E3%E6%97%8F%E7%BE%A4%E5%AA%BD%E5%AA%BD%E5%BF%85%E5%82%99%E4%BF%9D%E5%96%AE%E7%9C%8B%E9%80%99%E9%82%8A#moneynet_2020-04-22,MONEY錢雜誌─你做好完整保障規劃了嗎？3族羣媽媽必備保單看這邊─小花平臺,MONEY錢雜誌─你做好完整保障規劃了嗎？3族羣媽媽必備保單看這邊─小花平臺
+212,籃球,https://nba.udn.com/nba/story/6780/4509972?utm_source=nbataiwan&utm_medium=fb,遭格鬥選手「公主抱」 歐尼爾直呼人生第一次 | NBA戰況 | NBA 臺灣,遭格鬥選手「公主抱」 歐尼爾直呼人生第一次 | NBA戰況 | NBA 臺灣
+213,育兒,https://www.mombaby.com.tw/parenting/entertainment/articles/17078,口罩實名制3.0有好康！額溫卡、口罩收納夾一招領取，4大超商優惠看這一篇就夠｜Mombaby 媽媽寶寶懷孕生活網,口罩實名制3.0有好康！額溫卡、口罩收納夾一招領取，4大超商優惠看這一篇就夠｜Mombaby 媽媽寶寶懷孕生活網
+214,籃球,https://nba.udn.com/nba/story/6780/4510010?utm_source=nbataiwan&utm_medium=fb,把喬丹放到現今防守規則？ 小范甘迪：場均40分 | NBA戰況 | NBA 臺灣,把喬丹放到現今防守規則？ 小范甘迪：場均40分 | NBA戰況 | NBA 臺灣
+215,MF這樣變型男,https://mf.techbang.com/posts/10906-netizens-poison-tongue-analysis-of-theunway-character-on-twitter-burst-red-dr-strange-he-saw-14-million-future-but-did-not-tell-us-that-there-is-wuhan-pneumonia?preview=true,推特爆紅漫威角色毒舌解析：「奇異博士他x的看了1400萬個未來，卻沒告訴我們有武漢肺炎？」 | manfashion這樣變型男,推特爆紅漫威角色毒舌解析：「奇異博士他x的看了1400萬個未來，卻沒告訴我們有武漢肺炎？」 | manfashion這樣變型男
+216,運動,https://running.biji.co/index.php?q=review&act=detail&id=39942,運動筆記,運動筆記
+217,美妝保養,https://survey.fashionguide.com.tw/evaluation/16235,SOFINA蘇菲娜iP土臺美容液特優評鑑報告 - FashionGuide 華人時尚專業評鑑,SOFINA蘇菲娜iP土臺美容液特優評鑑報告 - FashionGuide 華人時尚專業評鑑
+218,理財,https://ps.yottau.net/R8CDB,「價值投資法」有可能失效嗎？分析投資成功的三層因素 | YOTTA 跨領域線上課程平臺,「價值投資法」有可能失效嗎？分析投資成功的三層因素 | YOTTA 跨領域線上課程平臺
+219,運動,https://running.biji.co/index.php?q=news&act=info&id=103430,【健康】腳踝扭傷別輕忽 3 招復健自救 ｜ 運動筆記,【健康】腳踝扭傷別輕忽 3 招復健自救 ｜ 運動筆記
+220,MF這樣變型男,https://mf.techbang.com/posts/10906-netizens-poison-tongue-analysis-of-theunway-character-on-twitter-burst-red-dr-strange-he-saw-14-million-future-but-did-not-tell-us-that-there-is-wuhan-pneumonia?preview=true,推特爆紅漫威角色毒舌解析：「奇異博士他x的看了1400萬個未來，卻沒告訴我們有武漢肺炎？」 | manfashion這樣變型男,推特爆紅漫威角色毒舌解析：「奇異博士他x的看了1400萬個未來，卻沒告訴我們有武漢肺炎？」 | manfashion這樣變型男
+221,運動,https://running.biji.co/index.php?q=review&act=detail&id=39942,運動筆記,運動筆記
+222,美妝保養,https://survey.fashionguide.com.tw/evaluation/16235,SOFINA蘇菲娜iP土臺美容液特優評鑑報告 - FashionGuide 華人時尚專業評鑑,SOFINA蘇菲娜iP土臺美容液特優評鑑報告 - FashionGuide 華人時尚專業評鑑
+223,理財,https://ps.yottau.net/R8CDB,「價值投資法」有可能失效嗎？分析投資成功的三層因素 | YOTTA 跨領域線上課程平臺,「價值投資法」有可能失效嗎？分析投資成功的三層因素 | YOTTA 跨領域線上課程平臺
+224,運動,https://running.biji.co/index.php?q=news&act=info&id=103430,【健康】腳踝扭傷別輕忽 3 招復健自救 ｜ 運動筆記,【健康】腳踝扭傷別輕忽 3 招復健自救 ｜ 運動筆記
+225,籃球,https://nba.udn.com/nba/story/6780/4510034?utm_source=nbataiwan&utm_medium=fb,沒奪冠就拆夥 歐尼爾爆料湖人高層放話 | NBA戰況 | NBA 臺灣,沒奪冠就拆夥 歐尼爾爆料湖人高層放話 | NBA戰況 | NBA 臺灣
+226,籃球,https://nba.udn.com/nba/story/6780/4510240?utm_source=nbataiwan&utm_medium=fb,回顧2011年奪冠 諾維茨基：最棒的感覺 | NBA戰況 | NBA 臺灣,回顧2011年奪冠 諾維茨基：最棒的感覺 | NBA戰況 | NBA 臺灣
+227,生活空間,https://decomyplace.com/n.php?id=8090,「專訪」45 年紅磚老厝改造！臺中 30 坪極簡純白工作室 - 嶼根設計 - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站,「專訪」45 年紅磚老厝改造！臺中 30 坪極簡純白工作室 - 嶼根設計 - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站
+228,運動,https://running.biji.co/index.php?q=news&act=info&id=103426,【賽事】德國禁舉辦超過五千人活動 九月柏林馬恐有變數？ ｜ 運動筆記,【賽事】德國禁舉辦超過五千人活動 九月柏林馬恐有變數？ ｜ 運動筆記
+229,CUP 媒體,https://www.cup.com.hk/2020/04/22/sirshek-when-british-people-are-still-taking-about-face-masks/,石 Sir：當英國還在討論戴口罩 - *CUP,石 Sir：當英國還在討論戴口罩 - *CUP
+230,籃球,https://nba.udn.com/nba/story/6780/4510019?utm_source=nbataiwan&utm_medium=fb,雷納德沈默寡言是假象 威廉斯聲稱是在惡整大家 | NBA戰況 | NBA 臺灣,雷納德沈默寡言是假象 威廉斯聲稱是在惡整大家 | NBA戰況 | NBA 臺灣
+231,運動,https://running.biji.co/index.php?q=question&act=detail&q_id=423,運動筆記,運動筆記
+232,CUP 媒體,https://www.cup.com.hk/2020/04/22/gloria-chung-takeaway/,Gloria Chung：做個專業的外賣仔 - *CUP,Gloria Chung：做個專業的外賣仔 - *CUP
+233,籃球,https://nba.udn.com/nba/story/6780/4510143?utm_source=nbataiwan&utm_medium=fb,艾佛森助攻紀錄片製作 喬丹隔近20年開金口答應 | NBA戰況 | NBA 臺灣,艾佛森助攻紀錄片製作 喬丹隔近20年開金口答應 | NBA戰況 | NBA 臺灣
+234,設計,https://www.ppaper.net/page/1290,疫情的陰霾使人類更加團結：餐前洗淨雙手的魚形“醬油” #SafeHandFish,疫情的陰霾使人類更加團結：餐前洗淨雙手的魚形“醬油” #SafeHandFish
+235,籃球,https://nba.udn.com/nba/story/6780/4510056?utm_source=nbataiwan&utm_medium=fb,聯盟若決定重啟賽事 傳西蒙斯準備回歸 | NBA戰況 | NBA 臺灣,聯盟若決定重啟賽事 傳西蒙斯準備回歸 | NBA戰況 | NBA 臺灣
+236,CUP 媒體,https://www.cup.com.hk/2020/04/22/chenglap-ghost-stories-game/,鄭立：聊齋誌異 —— 大魔王竟然賣大包，可能影射麥當勞叔叔 - *CUP,鄭立：聊齋誌異 —— 大魔王竟然賣大包，可能影射麥當勞叔叔 - *CUP
+237,籃球,https://nba.udn.com/nba/story/6780/4510056?utm_source=nbataiwan&utm_medium=fb,聯盟若決定重啟賽事 傳西蒙斯準備回歸 | NBA戰況 | NBA 臺灣,聯盟若決定重啟賽事 傳西蒙斯準備回歸 | NBA戰況 | NBA 臺灣
+238,CUP 媒體,https://www.cup.com.hk/2020/04/22/chenglap-ghost-stories-game/,鄭立：聊齋誌異 —— 大魔王竟然賣大包，可能影射麥當勞叔叔 - *CUP,鄭立：聊齋誌異 —— 大魔王竟然賣大包，可能影射麥當勞叔叔 - *CUP
+239,MF這樣變型男,https://mf.techbang.com/posts/2736-men-care-4-help-detox-tips,【型男Care】4種幫助身體「排毒」的小方法 | manfashion這樣變型男,【型男Care】4種幫助身體「排毒」的小方法 | manfashion這樣變型男
+240,MF這樣變型男,https://mf.techbang.com/posts/2756-just-now-started-to-become-better-boyfriend-8-simple-things-make-you-move-from-being-80-minutes-out-of-warm-man,現在就開始著手成為「更棒的男朋友」！8件小事讓你從80分晉升滿分暖男！ | manfashion這樣變型男,現在就開始著手成為「更棒的男朋友」！8件小事讓你從80分晉升滿分暖男！ | manfashion這樣變型男
+241,生活空間,https://www.searchome.net/article.aspx?id=36407,植栽黑白配改造中古屋！美得不可方物的 38 坪放鬆宅－設計家 Searchome,植栽黑白配改造中古屋！美得不可方物的 38 坪放鬆宅－設計家 Searchome
+242,紐約時報,https://cn.nytimes.com/china/20200422/china-coronavirus-propaganda-media/zh-hant/?utm_source=RSS,中國對疫情的選擇性報導滋生仇恨文化,中國對疫情的選擇性報導滋生仇恨文化
+243,MF這樣變型男,https://mf.techbang.com/posts/2747-patients-with-obsessive-compulsive-disorder-ease-the-pressure-must-see-18-perfect-food-photo-definitely-make-your-day,強迫症患者「紓壓」必看！18張完美的食物照絕對Make Your Day！ | manfashion這樣變型男,強迫症患者「紓壓」必看！18張完美的食物照絕對Make Your Day！ | manfashion這樣變型男
+244,生活空間,https://www.fundesign.tv/vanna-venturi-house/?utm_source=fb-/vanna-venturi-house&utm_medium=click,文丘裏「母親的家」：在別出心裁的名宅內打造日常生活,文丘裏「母親的家」：在別出心裁的名宅內打造日常生活
+245,設計,https://www.ppaper.net/page/1272,一生都未曾見過的她，成為了藝術香氛FORNASETTI PROFUMI最重要的謬思女神,一生都未曾見過的她，成為了藝術香氛FORNASETTI PROFUMI最重要的謬思女神
+246,紐約時報,https://cn.nytimes.com/china/20200414/china-mekong-drought/zh-hant/?utm_source=RSS,研究稱中國限制湄公河上游流量，引發下游多國乾旱,研究稱中國限制湄公河上游流量，引發下游多國乾旱
+247,紐約時報,https://cn.nytimes.com/world/20200421/russian-submarine-fire-losharik/zh-hant/?utm_source=RSS,一艘神祕潛艇、一場致命火災和俄羅斯的深海野心,一艘神祕潛艇、一場致命火災和俄羅斯的深海野心
+248,紐約時報,https://cn.nytimes.com/health/20200421/airflow-coronavirus-restaurants/zh-hant/?utm_source=RSS,廣州早期病例揭示新冠病毒如何在餐廳傳播,廣州早期病例揭示新冠病毒如何在餐廳傳播
+249,紐約時報,https://cn.nytimes.com/usa/20200421/coronavirus-nyc-numbers-unemployment/zh-hant/?utm_source=RSS,11個數字，瞭解疫情如何改變了紐約,11個數字，瞭解疫情如何改變了紐約
+250,紐約時報,https://cn.nytimes.com/asia-pacific/20200421/kim-jong-un-coronavirus/zh-hant/?utm_source=RSS,金正恩缺席朝鮮重要活動，健康問題引發外界疑慮,金正恩缺席朝鮮重要活動，健康問題引發外界疑慮
+251,職涯,https://buzzorange.com/vidaorange/2018/01/31/pdca-note/,【每天 5 分鐘＋4 條線】日本高效企業家用「PDCA 筆記術」縮短工時、解決難題 | VidaOrange,【每天 5 分鐘＋4 條線】日本高效企業家用「PDCA 筆記術」縮短工時、解決難題 | VidaOrange
+252,美妝保養,https://mamaclub.com/learn/%e3%80%902020%e6%af%8d%e8%a6%aa%e7%af%80%e6%aa%94%e6%9c%9f%e5%84%aa%e6%83%a0%e6%95%b4%e7%90%86%e3%80%91%e7%b5%b1%e4%b8%80%e6%99%82%e4%bb%a3%e7%99%be%e8%b2%a8%e7%be%8e%e4%ba%ba%e7%af%80%ef%bc%81/,【2020母親節檔期優惠整理】統一時代百貨美人節！美妝保養超搶手組合，各式品牌等妳來逛 – 媽媽經｜專屬於媽媽的網站,【2020母親節檔期優惠整理】統一時代百貨美人節！美妝保養超搶手組合，各式品牌等妳來逛 – 媽媽經｜專屬於媽媽的網站
+253,紐約時報,https://cn.nytimes.com/health/20200421/airflow-coronavirus-restaurants/zh-hant/?utm_source=RSS,廣州早期病例揭示新冠病毒如何在餐廳傳播,廣州早期病例揭示新冠病毒如何在餐廳傳播
+254,紐約時報,https://cn.nytimes.com/usa/20200421/coronavirus-nyc-numbers-unemployment/zh-hant/?utm_source=RSS,11個數字，瞭解疫情如何改變了紐約,11個數字，瞭解疫情如何改變了紐約
+255,紐約時報,https://cn.nytimes.com/asia-pacific/20200421/kim-jong-un-coronavirus/zh-hant/?utm_source=RSS,金正恩缺席朝鮮重要活動，健康問題引發外界疑慮,金正恩缺席朝鮮重要活動，健康問題引發外界疑慮
+256,職涯,https://buzzorange.com/vidaorange/2018/01/31/pdca-note/,【每天 5 分鐘＋4 條線】日本高效企業家用「PDCA 筆記術」縮短工時、解決難題 | VidaOrange,【每天 5 分鐘＋4 條線】日本高效企業家用「PDCA 筆記術」縮短工時、解決難題 | VidaOrange
+257,美妝保養,https://mamaclub.com/learn/%e3%80%902020%e6%af%8d%e8%a6%aa%e7%af%80%e6%aa%94%e6%9c%9f%e5%84%aa%e6%83%a0%e6%95%b4%e7%90%86%e3%80%91%e7%b5%b1%e4%b8%80%e6%99%82%e4%bb%a3%e7%99%be%e8%b2%a8%e7%be%8e%e4%ba%ba%e7%af%80%ef%bc%81/,【2020母親節檔期優惠整理】統一時代百貨美人節！美妝保養超搶手組合，各式品牌等妳來逛 – 媽媽經｜專屬於媽媽的網站,【2020母親節檔期優惠整理】統一時代百貨美人節！美妝保養超搶手組合，各式品牌等妳來逛 – 媽媽經｜專屬於媽媽的網站
+258,美食,https://travel.ettoday.net/article/1693235.htm,外皮酥脆Q彈！桃園13元佛心多汁大有水煎包　咬下炸出飽滿內餡 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),外皮酥脆Q彈！桃園13元佛心多汁大有水煎包　咬下炸出飽滿內餡 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+259,醫療健康,http://www.uho.com.tw/hotnews.asp?aid=51274,孩子皮膚總是黑黑的？當心糖尿病警訊 - uho優活健康網,孩子皮膚總是黑黑的？當心糖尿病警訊 - uho優活健康網
+260,理財,https://buzzorange.com/techorange/2020/04/23/startup-about-education/,親子天下「教育新創 20+」名單公佈，全臺最具創新力道 20 家教育新創登場 | TechOrange,親子天下「教育新創 20+」名單公佈，全臺最具創新力道 20 家教育新創登場 | TechOrange
+261,親子家庭,https://mamibuy.com.tw/talk/article/142175?utm_source=FB-used&utm_campaign=regular&utm_medium=post,「愛愛」防疫無敵?俄專家：性高潮可殺死冠狀病毒 | 媽咪拜MamiBuy,「愛愛」防疫無敵?俄專家：性高潮可殺死冠狀病毒 | 媽咪拜MamiBuy
+262,趨勢與策略,https://news.knowing.asia/news/1985b8aa-04ab-46a2-9b44-635465822273,Uber拒當冤大頭賠1.79億美元，稱Levandowski詐欺在先,Uber拒當冤大頭賠1.79億美元，稱Levandowski詐欺在先
+263,育兒,https://mamaclub.com/learn/%e5%88%a5%e4%bb%a5%e7%82%ba%e8%82%ba%e7%b5%90%e6%a0%b8%e9%9b%a2%e4%bd%a0%e5%be%88%e9%81%a0%ef%bc%81%e6%85%88%e6%bf%9f%e5%a4%a7%e5%ad%b81%e5%ad%b8%e7%94%9f%e7%a2%ba%e8%a8%ba%ef%bc%8c%e6%8e%a5%e8%a7%b8/,別以為肺結核離你很遠！慈濟大學1學生確診，接觸者達百餘人 – 媽媽經｜專屬於媽媽的網站,別以為肺結核離你很遠！慈濟大學1學生確診，接觸者達百餘人 – 媽媽經｜專屬於媽媽的網站
+264,育兒,https://mamaclub.com/learn/%e9%9b%bb%e5%8b%95%e6%b2%99%e7%99%bc%e6%80%8e%e9%ba%bc%e6%8c%91%ef%bc%9f%e5%a4%a7%e6%bc%a2%e5%ae%b6%e5%85%b7%e5%88%86%e4%ba%ab%e5%ae%89%e5%bf%83%e9%81%b8%e8%b3%bc%e8%a6%81%e8%a8%a3/,電動沙發怎麼挑？大漢傢俱分享安心選購要訣 – 媽媽經｜專屬於媽媽的網站,電動沙發怎麼挑？大漢傢俱分享安心選購要訣 – 媽媽經｜專屬於媽媽的網站
+265,美食,https://travel.ettoday.net/article/1698446.htm,人氣繪本咖啡館開到貓空！白色帳篷賞夕陽、星空...找回理想生活樣貌 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),人氣繪本咖啡館開到貓空！白色帳篷賞夕陽、星空...找回理想生活樣貌 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+266,區塊鏈技術,https://blockcast.it/2020/04/23/madman-column-price-analysis-2020-apr-23/,【狂人日記】幣價上漲是源於險些擦槍走火。4 月 23 日行情分析 - 區塊客,【狂人日記】幣價上漲是源於險些擦槍走火。4 月 23 日行情分析 - 區塊客
+267,健身,https://m-muscular.com/做好這6個訓練小細節，把你的手臂圍度增加2cm！/,做好這6個訓練小細節，把你的手臂圍度增加2cm！ -,做好這6個訓練小細節，把你的手臂圍度增加2cm！ -
+268,美食,https://mamaclub.com/learn/%e5%93%81%e5%a5%bd%e4%b9%b3%e9%85%aa%e3%80%81%e6%8e%92%e9%9a%8a%e7%be%8e%e9%a3%9f%e3%80%81%e6%b3%a1%e8%8a%99%e3%80%81%e5%8c%97%e6%b5%b7%e9%81%93%e4%b9%b3%e9%85%aa%e3%80%81%e4%b9%b3%e9%85%aa%e8%9b%8b/,品好乳酪、排隊美食、泡芙、北海道乳酪、乳酪蛋糕、北海道十勝四葉乳酪 – 媽媽經｜專屬於媽媽的網站,品好乳酪、排隊美食、泡芙、北海道乳酪、乳酪蛋糕、北海道十勝四葉乳酪 – 媽媽經｜專屬於媽媽的網站
+269,生活空間,http://www.dfunmag.com.tw/%e6%8b%89%e8%b5%b7%e7%97%85%e6%af%92%e5%b0%81%e9%8e%96%e7%b7%9a%ef%bc%8c%e4%bb%a57%e5%80%8b%e5%b1%85%e5%ae%b6%e7%be%8e%e5%ad%b8%e9%81%b8%e5%93%81%e9%96%8b%e5%95%9f%e3%80%8c%e5%ae%85%e6%b8%a1%e5%81%87/,拉起病毒封鎖線，以7個居家美學選品開啟「宅渡假」mood！,拉起病毒封鎖線，以7個居家美學選品開啟「宅渡假」mood！
+270,美食,https://mamaclub.com/learn/%e5%93%81%e5%a5%bd%e4%b9%b3%e9%85%aa%e3%80%81%e6%8e%92%e9%9a%8a%e7%be%8e%e9%a3%9f%e3%80%81%e6%b3%a1%e8%8a%99%e3%80%81%e5%8c%97%e6%b5%b7%e9%81%93%e4%b9%b3%e9%85%aa%e3%80%81%e4%b9%b3%e9%85%aa%e8%9b%8b/,品好乳酪、排隊美食、泡芙、北海道乳酪、乳酪蛋糕、北海道十勝四葉乳酪 – 媽媽經｜專屬於媽媽的網站,品好乳酪、排隊美食、泡芙、北海道乳酪、乳酪蛋糕、北海道十勝四葉乳酪 – 媽媽經｜專屬於媽媽的網站
+271,生活空間,http://www.dfunmag.com.tw/%e6%8b%89%e8%b5%b7%e7%97%85%e6%af%92%e5%b0%81%e9%8e%96%e7%b7%9a%ef%bc%8c%e4%bb%a57%e5%80%8b%e5%b1%85%e5%ae%b6%e7%be%8e%e5%ad%b8%e9%81%b8%e5%93%81%e9%96%8b%e5%95%9f%e3%80%8c%e5%ae%85%e6%b8%a1%e5%81%87/,拉起病毒封鎖線，以7個居家美學選品開啟「宅渡假」mood！,拉起病毒封鎖線，以7個居家美學選品開啟「宅渡假」mood！
+272,攝影,https://digiphoto.techbang.com/posts/10248-nikon-d780-latest-firmware-ver101-launch,Nikon D780最新韌體 Ver1.01推出 | DIGIPHOTO-用鏡頭享受生命,Nikon D780最新韌體 Ver1.01推出 | DIGIPHOTO-用鏡頭享受生命
+273,點子生活,http://user18310.psee.io/R733H,三星推出三款風格迥異的 4K 電視　各自詮釋新時代的電視面貌 - Saydigi-Tech | 點子科技,三星推出三款風格迥異的 4K 電視　各自詮釋新時代的電視面貌 - Saydigi-Tech | 點子科技
+274,UNWIRE.HK 流動科技生活,https://unwire.hk/2020/04/23/ein-optischer-biosensor-fur-das-coronavirus/fun-tech/,瑞士成功研發光學生物傳感器　檢測空氣中是否存在肺炎病毒 - Unwire.hk,瑞士成功研發光學生物傳感器　檢測空氣中是否存在肺炎病毒 - Unwire.hk
+275,親子家庭,https://mamibuy.com.tw/talk/article/141946?utm_source=FB-used&utm_campaign=regular&utm_medium=post,"育兒也該超前部署,為上小學做好真正的準備. | 媽咪拜MamiBuy","育兒也該超前部署,為上小學做好真正的準備. | 媽咪拜MamiBuy"
+276,美食,https://travel.ettoday.net/article/1698368.htm,蟲蟲出沒臺中！巨大螳螂、獨角仙晚上開夜光趴　展出至5月底 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),蟲蟲出沒臺中！巨大螳螂、獨角仙晚上開夜光趴　展出至5月底 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+277,理財,http://www.eatshealth.com/post07254001037418?u=auto&utm_source=fb&utm_medium=727603510649640&utm_campaign=p105,花光退休金！老夫妻「用493萬蓋豪宅」還請管家　堅持「不想把錢留給孩子」被網友讚翻 - 生活妙管家,花光退休金！老夫妻「用493萬蓋豪宅」還請管家　堅持「不想把錢留給孩子」被網友讚翻 - 生活妙管家
+278,汽車,https://incar.tw/post/next-gen-ford-mustang-could-offer-v8-hybrid-power-and-all-wheel-drive,傳聞：野馬跑車也將電氣化　下一代Ford Mustang 將獲得V8混合動力和四輪驅動！！！ | 癮車報,傳聞：野馬跑車也將電氣化　下一代Ford Mustang 將獲得V8混合動力和四輪驅動！！！ | 癮車報
+279,醫療健康,http://www.uho.com.tw/hotnews.asp?aid=51273,失業導遊轉行當保全　失志症候羣上身 - uho優活健康網,失業導遊轉行當保全　失志症候羣上身 - uho優活健康網
+280,區塊鏈技術,https://blockcast.it/2020/04/23/openfinance-threatening-to-suspend-trading-next-month-unless-issuers-cough-up-more-funds-to-cover-its-costs/,不給錢就停止交易！證券代幣平臺 Openfinance 要求發行方分攤成本 - 區塊客,不給錢就停止交易！證券代幣平臺 Openfinance 要求發行方分攤成本 - 區塊客
+281,育兒,https://mamaclub.com/learn/%e7%95%b6%e5%8a%aa%e5%8a%9b%e9%81%8e%e4%bb%8d%e7%84%a1%e6%b3%95%e8%b5%b0%e5%88%b0%e6%9c%80%e5%be%8c%ef%bc%8c%e6%88%96%e8%a8%b1%e6%89%bf%e8%aa%8d%e5%85%a9%e4%ba%ba%e7%9a%84%e4%b8%8d%e9%81%a9%e5%90%88/,當努力過仍無法走到最後，或許承認兩人的不適合才是愛對方最好的祝福 – 媽媽經｜專屬於媽媽的網站,當努力過仍無法走到最後，或許承認兩人的不適合才是愛對方最好的祝福 – 媽媽經｜專屬於媽媽的網站
+282,育兒,https://mamaclub.com/learn/%e3%80%8a%e5%93%88%e5%9b%89%e6%8e%b0%e6%8e%b0%ef%bc%8c%e6%88%91%e6%98%af%e9%ac%bc%e5%aa%bd%e5%aa%bd%e3%80%8b%e6%94%be%e4%b8%8d%e4%b8%8b%e5%a5%b3%e5%85%92%e5%be%98%e5%be%8a%e4%ba%ba%e9%96%93%ef%bc%8c/,《哈囉掰掰，我是鬼媽媽》當有了回到人間的機會，她選擇把握與女兒相處的時光 – 媽媽經｜專屬於媽媽的網站,《哈囉掰掰，我是鬼媽媽》當有了回到人間的機會，她選擇把握與女兒相處的時光 – 媽媽經｜專屬於媽媽的網站
+283,育兒,https://mamaclub.com/learn/%e5%a9%9a%e5%a7%bb%e6%98%af%e6%84%9b%e6%83%85%e7%9a%84%e5%a2%b3%e5%a2%93%ef%bc%9f%e5%8f%96%e6%b1%ba%e6%96%bc%e5%bd%bc%e6%ad%a4%e5%9c%a8%e4%b9%8e%e3%80%8c%e9%80%99%e9%bb%9e%e3%80%8d%e7%9a%84%e7%a8%8b/,婚姻是愛情的墳墓？取決於彼此在乎「這點」的程度！ – 媽媽經｜專屬於媽媽的網站,婚姻是愛情的墳墓？取決於彼此在乎「這點」的程度！ – 媽媽經｜專屬於媽媽的網站
+284,享樂女性,https://babyou.nownews.com/news/feature/300009081048/?from=bbfb_p&utm_source=fb&utm_medium=bb&utm_campaign=p,周揚青揭露羅志祥淫行／玉石俱焚的愛情，背後都是萬般的隱忍 | 星觀點 | Babyou 姊妹淘,周揚青揭露羅志祥淫行／玉石俱焚的愛情，背後都是萬般的隱忍 | 星觀點 | Babyou 姊妹淘
+285,商業周刊,https://health.businessweekly.com.tw/AArticleM.aspx?id=ARTL003001849&utm_source=facebook.com&utm_medium=social&utm_content=health&utm_campaign=content,「鳳梨酵素」抗發炎、消腫還助消化！怎麼吃效果最好？藥師教你食用2關鍵-健康特搜簿-良醫健康網,「鳳梨酵素」抗發炎、消腫還助消化！怎麼吃效果最好？藥師教你食用2關鍵-健康特搜簿-良醫健康網
+286,育兒,http://omg.idea543.net/post02024941102789?u=auto&utm_source=fb&utm_medium=727603510649640&utm_campaign=p105,才剛賠200萬！艾成「業績暴跌5成」親自外送海南雞飯　咬牙苦撐「親訪公司發傳單」不捨員工沒頭路 - 創意妙管家,才剛賠200萬！艾成「業績暴跌5成」親自外送海南雞飯　咬牙苦撐「親訪公司發傳單」不捨員工沒頭路 - 創意妙管家
+287,育兒,https://mamaclub.com/learn/%e5%a9%9a%e5%a7%bb%e6%98%af%e6%84%9b%e6%83%85%e7%9a%84%e5%a2%b3%e5%a2%93%ef%bc%9f%e5%8f%96%e6%b1%ba%e6%96%bc%e5%bd%bc%e6%ad%a4%e5%9c%a8%e4%b9%8e%e3%80%8c%e9%80%99%e9%bb%9e%e3%80%8d%e7%9a%84%e7%a8%8b/,婚姻是愛情的墳墓？取決於彼此在乎「這點」的程度！ – 媽媽經｜專屬於媽媽的網站,婚姻是愛情的墳墓？取決於彼此在乎「這點」的程度！ – 媽媽經｜專屬於媽媽的網站
+288,享樂女性,https://babyou.nownews.com/news/feature/300009081048/?from=bbfb_p&utm_source=fb&utm_medium=bb&utm_campaign=p,周揚青揭露羅志祥淫行／玉石俱焚的愛情，背後都是萬般的隱忍 | 星觀點 | Babyou 姊妹淘,周揚青揭露羅志祥淫行／玉石俱焚的愛情，背後都是萬般的隱忍 | 星觀點 | Babyou 姊妹淘
+289,商業周刊,https://health.businessweekly.com.tw/AArticleM.aspx?id=ARTL003001849&utm_source=facebook.com&utm_medium=social&utm_content=health&utm_campaign=content,「鳳梨酵素」抗發炎、消腫還助消化！怎麼吃效果最好？藥師教你食用2關鍵-健康特搜簿-良醫健康網,「鳳梨酵素」抗發炎、消腫還助消化！怎麼吃效果最好？藥師教你食用2關鍵-健康特搜簿-良醫健康網
+290,育兒,http://omg.idea543.net/post02024941102789?u=auto&utm_source=fb&utm_medium=727603510649640&utm_campaign=p105,才剛賠200萬！艾成「業績暴跌5成」親自外送海南雞飯　咬牙苦撐「親訪公司發傳單」不捨員工沒頭路 - 創意妙管家,才剛賠200萬！艾成「業績暴跌5成」親自外送海南雞飯　咬牙苦撐「親訪公司發傳單」不捨員工沒頭路 - 創意妙管家
+291,享樂女性,https://babyou.nownews.com/news/heart/300009080935/?from=bbfb_p&utm_source=fb&utm_medium=bb&utm_campaign=p,請珍惜家裡那個，為你變成黃臉婆的女人 | 淘心話 | Babyou 姊妹淘,請珍惜家裡那個，為你變成黃臉婆的女人 | 淘心話 | Babyou 姊妹淘
+292,Girl Secret,https://girlsecret.hk/celebrity/%e5%91%a8%e6%8f%9a%e9%9d%92%e8%88%87%e7%be%85%e5%bf%97%e7%a5%a5%e5%88%86%e6%89%8b%ef%bc%8c%e4%ba%a4%e5%be%80%e4%b9%9d%e5%b9%b4%e6%89%8d%e6%8f%ad%e7%99%bc%e4%b8%8d%e7%82%ba%e4%ba%ba%e7%9f%a5%e7%9a%84/,交往九年與羅志祥分手，周揚青發聲明揭不為人知的祕密：「有的人他渣是天生的！」 - Girl Secret,交往九年與羅志祥分手，周揚青發聲明揭不為人知的祕密：「有的人他渣是天生的！」 - Girl Secret
+293,小丰子3c俱樂部,https://tel3c.tw/blog/post/28883,"中華電信Hami書城4/23世界閱讀日免費閱讀體驗活動, 非中華電信用戶也可以申請 - 小豐子3C俱樂部","中華電信Hami書城4/23世界閱讀日免費閱讀體驗活動, 非中華電信用戶也可以申請 - 小豐子3C俱樂部"
+294,御宅學園,https://gank.fanpiece.com/will-kuso/%E6%A3%AE%E5%8F%8B%E6%9C%83%2D%E9%A0%90%E5%91%8A%2D%E6%AF%94%E7%8B%B8%E5%85%8B%E6%9B%B4%E5%87%B6%E7%8B%A0%E7%9A%84%E6%96%B0%E5%A5%B8%E5%95%86%E7%99%BB%E5%A0%B4%2D%E7%B5%95%E5%B0%8D%E8%A6%81%E6%8F%90%E9%98%B2-c1374497.html,《森友會》預告：比狸克更兇狠的新奸商登場！絕對要提防！ | Will_ＫＵＳＯ | GANK 電玩誌 - fanpiece,《森友會》預告：比狸克更兇狠的新奸商登場！絕對要提防！ | Will_ＫＵＳＯ | GANK 電玩誌 - fanpiece
+295,Knowing,https://news.knowing.asia/news/78d8dae7-42e7-4574-a3b7-cd517476bd3a,斥資57億美元，Facebook入股印度互聯網巨頭Jio,斥資57億美元，Facebook入股印度互聯網巨頭Jio
+296,攝影,https://softnshare.com/photography-business-course/,開始你的攝影事業 – 完整課程 - Soft & Share 線上課程資訊分享,開始你的攝影事業 – 完整課程 - Soft & Share 線上課程資訊分享
+297,TechOrange 科技報橘,https://buzzorange.com/techorange/2020/04/23/restaurants-three-dilemma/,拆解餐廳營運 3 困境：23 年東區老字號生意剩兩成，登報求售 400 坪店面 | TechOrange,拆解餐廳營運 3 困境：23 年東區老字號生意剩兩成，登報求售 400 坪店面 | TechOrange
+298,職涯,https://buzzorange.com/vidaorange/2020/04/23/health-emotional-cost/,【性格決定職場升遷】心理學家將「成敗性格」分兩種：你是內控型，還是外控型性格？ | VidaOrange,【性格決定職場升遷】心理學家將「成敗性格」分兩種：你是內控型，還是外控型性格？ | VidaOrange
+299,美食,https://travel.ettoday.net/article/1693217.htm,招牌烤魚鮮嫩甜美！臺東超人氣原住民料理　還有邪惡桶烤雞 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),招牌烤魚鮮嫩甜美！臺東超人氣原住民料理　還有邪惡桶烤雞 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+300,育兒,https://mamaclub.com/learn/%e5%a4%a0%e7%94%a8%e5%b0%b1%e5%a5%bd%ef%bc%81%e4%b8%8d%e6%8a%8a%e8%80%81%e5%85%ac%e8%96%aa%e6%b0%b4%e7%9c%8b%e6%ad%bb%e6%ad%bb%e7%9a%84%e7%94%9f%e8%82%96%e5%a5%b3/,夠用就好！不把老公薪水看死死的生肖女 – 媽媽經｜專屬於媽媽的網站,夠用就好！不把老公薪水看死死的生肖女 – 媽媽經｜專屬於媽媽的網站
+301,電影,https://mf.techbang.com/posts/10921-one-fist-superman-will-be-remade-in-the-hollywood-reality-film-who-is-the-best-person-to-be-the-lead-character?preview=true,《一拳超人》將翻拍好萊塢真人版電影！巨石強森、傑森史塔森誰最適合當主角？ | manfashion這樣變型男,《一拳超人》將翻拍好萊塢真人版電影！巨石強森、傑森史塔森誰最適合當主角？ | manfashion這樣變型男
+302,育兒,http://www.family543.com/post01043361102656?u=auto&utm_source=fb&utm_medium=727603510649640&utm_campaign=p105,寒假放太久！小男孩開學「忘記自己哪一班」迷茫逛操場　皺眉露出「無辜求救小眼神」畫面萌翻全網❤️ - 晨光日報,寒假放太久！小男孩開學「忘記自己哪一班」迷茫逛操場　皺眉露出「無辜求救小眼神」畫面萌翻全網❤️ - 晨光日報
+303,Knowing,https://news.knowing.asia/news/91590752-b688-4e85-91a9-76c23693548a,誰可以領到紓困現金？5點看懂「紓困2.0」政策,誰可以領到紓困現金？5點看懂「紓困2.0」政策
+304,育兒,http://www.family543.com/post01043361102656?u=auto&utm_source=fb&utm_medium=727603510649640&utm_campaign=p105,寒假放太久！小男孩開學「忘記自己哪一班」迷茫逛操場　皺眉露出「無辜求救小眼神」畫面萌翻全網❤️ - 晨光日報,寒假放太久！小男孩開學「忘記自己哪一班」迷茫逛操場　皺眉露出「無辜求救小眼神」畫面萌翻全網❤️ - 晨光日報
+305,Knowing,https://news.knowing.asia/news/91590752-b688-4e85-91a9-76c23693548a,誰可以領到紓困現金？5點看懂「紓困2.0」政策,誰可以領到紓困現金？5點看懂「紓困2.0」政策
+306,蘋果專區,https://buzzorange.com/techorange/2020/04/23/5g-iphone-postpone/,果粉再等等！蘋果修改天線封裝設計，5G iPhone 可能延遲發布 | TechOrange,果粉再等等！蘋果修改天線封裝設計，5G iPhone 可能延遲發布 | TechOrange
+307,育兒,https://mamaclub.com/learn/%e7%a4%be%e6%9c%83%e4%b8%8a%e7%9a%84%e7%ac%91%e8%87%89%e6%96%87%e5%8c%96%ef%bc%8c%e5%8a%a0%e6%b7%b1%e4%ba%86%e3%80%8c%e5%be%ae%e7%ac%91%e6%86%82%e9%ac%b1%e8%80%85%e3%80%8d%e7%9a%84%e8%87%aa%e6%88%91/,社會上的笑臉文化，加深了「微笑憂鬱者」的自我厭惡 – 媽媽經｜專屬於媽媽的網站,社會上的笑臉文化，加深了「微笑憂鬱者」的自我厭惡 – 媽媽經｜專屬於媽媽的網站
+308,育兒,https://mamaclub.com/learn/%e8%a3%9c%e5%85%85%e9%ad%9a%e6%b2%b9%e6%98%af%e9%83%bd%e5%b8%82%e5%82%b3%e8%aa%aa%ef%bc%8c%e9%82%84%e6%98%af%e7%9c%9f%e6%9c%89%e5%a5%bd%e8%99%95%ef%bc%9f%ef%bc%88%e6%87%b6%e4%ba%ba%e5%8c%85%ef%bc%89/,補充魚油是都市傳說，還是真有好處？（懶人包） – 媽媽經｜專屬於媽媽的網站,補充魚油是都市傳說，還是真有好處？（懶人包） – 媽媽經｜專屬於媽媽的網站
+309,旅遊,https://mamaclub.com/learn/%e8%a6%aa%e5%ad%90%e5%85%b1%e8%ae%80-%e6%b4%97%e6%89%8b%e7%b9%aa%e6%9c%ac/,親子共讀 || 洗手繪本 – 媽媽經｜專屬於媽媽的網站,親子共讀 || 洗手繪本 – 媽媽經｜專屬於媽媽的網站
+310,兩性,https://mamaclub.com/learn/%e5%a4%ab%e5%a6%bb%e4%bd%8f%e5%9c%a8%e4%b8%80%e8%b5%b7%e5%83%8f%e5%ae%a4%e5%8f%8b%ef%bc%8c%e3%80%8c%e5%a9%9a%e5%a7%bb%e5%85%89%e6%88%91%e4%b8%80%e5%80%8b%e4%ba%ba%e6%83%b3%e7%b6%93%e7%87%9f%e6%9c%89/,夫妻住在一起像室友，「婚姻光我一個人想經營有用嗎？」 – 媽媽經｜專屬於媽媽的網站,夫妻住在一起像室友，「婚姻光我一個人想經營有用嗎？」 – 媽媽經｜專屬於媽媽的網站
+311,醫療健康,https://mamaclub.com/learn/%e7%a7%81%e5%af%86%e8%99%95%e7%be%8e%e5%ae%b9%e5%8f%af%e4%bb%a5%e6%94%b9%e5%96%84%e6%80%a7%e7%94%9f%e6%b4%bb%ef%bc%9f%e7%9a%ae%e8%86%9a%e7%a7%91%e5%b0%88%e5%ae%b6%ef%bc%9a%e6%87%89%e5%85%88%e5%bb%ba/,私密處美容可以改善性生活？皮膚科專家：應先建立正確觀念 – 媽媽經｜專屬於媽媽的網站,私密處美容可以改善性生活？皮膚科專家：應先建立正確觀念 – 媽媽經｜專屬於媽媽的網站
+312,健身,https://mf.techbang.com/posts/2758-clothes-could-no-longer-cover-your-shape-in-shape-with-these-6-perspectives-to-examine-your-exercise-plan-went-wrong,衣服再也遮不住你走樣的身材？用這7個角度來檢視你的「運動計劃」是不是出了問題！ | manfashion這樣變型男,衣服再也遮不住你走樣的身材？用這7個角度來檢視你的「運動計劃」是不是出了問題！ | manfashion這樣變型男
+313,Soft & Share 軟體開發資訊分享,https://softnshare.com/microservices-with-node-js-and-react/,使用 Node JS 和 React 的 微服務( Microservices ) - Soft & Share 線上課程資訊分享,使用 Node JS 和 React 的 微服務( Microservices ) - Soft & Share 線上課程資訊分享
+314,生活,https://info.babyhome.com.tw/article/22222?utm_source=facebook&utm_medium=social&utm_campaign=0423_1202_facebook,半夜追劇、聊天、打電動，該睡卻捨不得睡，你主動失眠了嗎？ - BabyHome 新知大耳朵,半夜追劇、聊天、打電動，該睡卻捨不得睡，你主動失眠了嗎？ - BabyHome 新知大耳朵
+315,TechOrange 科技報橘,https://buzzorange.com/techorange/2020/04/23/summer-arctic-ice-will-disappear-by-2050/,【減碳也救不回來⋯】2050 年前北極部份地區夏季將無海冰覆蓋 | TechOrange,【減碳也救不回來⋯】2050 年前北極部份地區夏季將無海冰覆蓋 | TechOrange
+316,美食,https://travel.ettoday.net/article/1698262.htm,頭城山林祕境！藏酒酒莊螢火蟲大爆發　住礁溪長榮鳳凰酒店可免費半日遊 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),頭城山林祕境！藏酒酒莊螢火蟲大爆發　住礁溪長榮鳳凰酒店可免費半日遊 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+317,美食,https://travel.ettoday.net/article/1698245.htm,泰式料理也能吃到飽！臺北喜來登SUKHOTHAI 6月底前可無限續點 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),泰式料理也能吃到飽！臺北喜來登SUKHOTHAI 6月底前可無限續點 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+318,美食,https://travel.ettoday.net/article/1697115.htm,淪陷！金帛手製打造「夢幻系」生乳捲　粉紅慕斯尬覆盆莓凍只賣到5/10 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),淪陷！金帛手製打造「夢幻系」生乳捲　粉紅慕斯尬覆盆莓凍只賣到5/10 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+319,享樂女性,https://fgblog.fashionguide.com.tw/content/ipsa-sogo-200422?utm_source=FB&utm_medium=POST&utm_campaign=%08FbPo200423,全臺最超值「IPSA流金霓彩限定組」就在忠孝SOGO快閃三天！滿額還能現場手作文青小夜燈,全臺最超值「IPSA流金霓彩限定組」就在忠孝SOGO快閃三天！滿額還能現場手作文青小夜燈
+320,城市食旅,https://matcha-jp.com/tw/9630?type=news?utm_source=social&utm_medium=facebook&utm_campaign=tw&utm_content=43944,橫濱「GU UNIQLO PARK」結合店鋪與公園的新店鋪！ | MATCHA - 日本線上旅遊觀光雜誌,橫濱「GU UNIQLO PARK」結合店鋪與公園的新店鋪！ | MATCHA - 日本線上旅遊觀光雜誌
+321,美食,https://travel.ettoday.net/article/1698245.htm,泰式料理也能吃到飽！臺北喜來登SUKHOTHAI 6月底前可無限續點 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),泰式料理也能吃到飽！臺北喜來登SUKHOTHAI 6月底前可無限續點 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+322,美食,https://travel.ettoday.net/article/1697115.htm,淪陷！金帛手製打造「夢幻系」生乳捲　粉紅慕斯尬覆盆莓凍只賣到5/10 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),淪陷！金帛手製打造「夢幻系」生乳捲　粉紅慕斯尬覆盆莓凍只賣到5/10 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+323,享樂女性,https://fgblog.fashionguide.com.tw/content/ipsa-sogo-200422?utm_source=FB&utm_medium=POST&utm_campaign=%08FbPo200423,全臺最超值「IPSA流金霓彩限定組」就在忠孝SOGO快閃三天！滿額還能現場手作文青小夜燈,全臺最超值「IPSA流金霓彩限定組」就在忠孝SOGO快閃三天！滿額還能現場手作文青小夜燈
+324,城市食旅,https://matcha-jp.com/tw/9630?type=news?utm_source=social&utm_medium=facebook&utm_campaign=tw&utm_content=43944,橫濱「GU UNIQLO PARK」結合店鋪與公園的新店鋪！ | MATCHA - 日本線上旅遊觀光雜誌,橫濱「GU UNIQLO PARK」結合店鋪與公園的新店鋪！ | MATCHA - 日本線上旅遊觀光雜誌
+325,美妝保養,https://girlsecret.hk/beauty/lvmh-%e6%94%b6%e8%b3%bc%e7%9a%84%e9%a6%96%e5%80%8b%e6%97%a5%e6%9c%ac%e7%be%8e%e5%a6%9d%ef%bc%8c%e5%a4%a9%e7%84%b6%e7%a4%a6%e7%89%a9%e5%bd%a9%e5%a6%9d%e5%93%81%e7%89%8cetvos%e5%88%b0%e5%ba%95%e6%9c%89/,LVMH 收購的首個日本美妝，天然礦物彩妝品牌ETVOS到底有什麼魅力？ - Girl Secret,LVMH 收購的首個日本美妝，天然礦物彩妝品牌ETVOS到底有什麼魅力？ - Girl Secret
+326,育兒,https://mamaclub.com/learn/%e8%80%81%e5%b9%b4%e9%9b%a2%e5%a9%9a%ef%bc%9f%e3%80%8c%e6%88%91%e6%ad%bb%e4%ba%86%e4%b9%8b%e5%be%8c%ef%bc%8c%e4%b8%8d%e6%83%b3%e8%91%ac%e5%9c%a8%e4%bb%96%e5%80%91%e5%ae%b6%e7%9a%84%e7%a5%96%e5%a2%b3/,老年離婚？「我死了之後，不想葬在他們家的祖墳裡」 – 媽媽經｜專屬於媽媽的網站,老年離婚？「我死了之後，不想葬在他們家的祖墳裡」 – 媽媽經｜專屬於媽媽的網站
+327,房地產,http://omg.idea543.net/post01195461037628?u=auto&utm_source=fb&utm_medium=727603510649640&utm_campaign=p105,天后就是狂！蕭亞軒曬出「8550萬豪宅」內部超奢華　要從房間到客廳「得搭專用電梯」 - 創意妙管家,天后就是狂！蕭亞軒曬出「8550萬豪宅」內部超奢華　要從房間到客廳「得搭專用電梯」 - 創意妙管家
+328,電影,https://mf.techbang.com/posts/10921-one-fist-superman-will-be-remade-in-the-hollywood-reality-film-who-is-the-best-person-to-be-the-lead-character,《一拳超人》將翻拍好萊塢真人版電影！巨石強森、傑森史塔森誰最適合當主角？ | manfashion這樣變型男,《一拳超人》將翻拍好萊塢真人版電影！巨石強森、傑森史塔森誰最適合當主角？ | manfashion這樣變型男
+329,理財,https://buzzorange.com/techorange/2020/04/23/tesla-stock-price-roar/,【一支獨秀】特斯拉美國廠停工、17 年來沒獲利，為什麼股價逆漲七成？ | TechOrange,【一支獨秀】特斯拉美國廠停工、17 年來沒獲利，為什麼股價逆漲七成？ | TechOrange
+330,生活空間,http://decomyplace.com/d.php?id=431,時工分設計 - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站,時工分設計 - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站
+331,育兒,https://mamaclub.com/learn/%e9%95%b7%e8%bc%a9%e5%9c%96%e7%9a%84%e6%84%8f%e7%be%a9%ef%bc%9a%e3%80%8c%e5%8f%aa%e8%a6%81%e8%83%bd%e5%a4%a0%e5%82%b3%e8%a8%8a%e6%81%af%e7%b5%a6%e9%97%9c%e5%bf%83%e7%9a%84%e4%ba%ba%e5%b0%b1%e6%9c%89/,長輩圖的意義：「只要能夠傳訊息給關心的人就有了歸屬感」 – 媽媽經｜專屬於媽媽的網站,長輩圖的意義：「只要能夠傳訊息給關心的人就有了歸屬感」 – 媽媽經｜專屬於媽媽的網站
+332,汽車,https://incar.tw/post/mercedes-maybach-spied-inside-showing-huge-screen,全新世代Mercedes-Maybach內裝曝光 大尺寸垂直螢幕取代傳統實體按鍵 科技感十足 | 癮車報,全新世代Mercedes-Maybach內裝曝光 大尺寸垂直螢幕取代傳統實體按鍵 科技感十足 | 癮車報
+333,汽車,https://autos.udn.com/autos/story/7825/4513012,售價166萬元起 BMW 2系列Gran Coupé 4/25全臺展間同步發表 | 車壇速報 | 國內車訊 | 發燒車訊,售價166萬元起 BMW 2系列Gran Coupé 4/25全臺展間同步發表 | 車壇速報 | 國內車訊 | 發燒車訊
+334,理財,https://buzzorange.com/vidaorange/2020/04/23/parenting-edustartup-20groups/,親子天下【教育新創 20+】名單公佈 全臺最具創新力道 20 家教育新創登場 | VidaOrange,親子天下【教育新創 20+】名單公佈 全臺最具創新力道 20 家教育新創登場 | VidaOrange
+335,汽車,https://autos.udn.com/autos/story/7826/4512965,建廠100週年轉子引擎回歸好時機？Mazda回顧RX車系透露玄機 | 車壇新訊 | 國際車訊 | 發燒車訊,建廠100週年轉子引擎回歸好時機？Mazda回顧RX車系透露玄機 | 車壇新訊 | 國際車訊 | 發燒車訊
+336,醫療健康,https://mamaclub.com/learn/%e7%bf%92%e6%85%a3%e7%94%a8%e3%80%8c%e6%83%85%e7%b7%92%e6%80%a7%e9%a3%b2%e9%a3%9f%e3%80%8d%e9%80%83%e9%81%bf%e5%a3%93%e5%8a%9b%ef%bc%9f%e5%bf%83%e7%90%86%e5%b8%ab%e6%8f%90%e5%87%ba%e9%80%99%e6%96%b9/,習慣用「情緒性飲食」逃避壓力？心理師提出這方法教你擺脫惡性循環 – 媽媽經｜專屬於媽媽的網站,習慣用「情緒性飲食」逃避壓力？心理師提出這方法教你擺脫惡性循環 – 媽媽經｜專屬於媽媽的網站
+337,職涯,https://news.knowing.asia/news/fe037ac8-7b09-428c-9c89-d4f857aed3a4,【新國會online】環團戰將踏入政治叢林！民進黨立委洪申翰：期望成為一個夠格的政治工作者！,【新國會online】環團戰將踏入政治叢林！民進黨立委洪申翰：期望成為一個夠格的政治工作者！
+338,汽車,https://incar.tw/post/mercedes-maybach-spied-inside-showing-huge-screen,全新世代Mercedes-Maybach內裝曝光 大尺寸垂直螢幕取代傳統實體按鍵 科技感十足 | 癮車報,全新世代Mercedes-Maybach內裝曝光 大尺寸垂直螢幕取代傳統實體按鍵 科技感十足 | 癮車報
+339,汽車,https://autos.udn.com/autos/story/7825/4513012,售價166萬元起 BMW 2系列Gran Coupé 4/25全臺展間同步發表 | 車壇速報 | 國內車訊 | 發燒車訊,售價166萬元起 BMW 2系列Gran Coupé 4/25全臺展間同步發表 | 車壇速報 | 國內車訊 | 發燒車訊
+340,理財,https://buzzorange.com/vidaorange/2020/04/23/parenting-edustartup-20groups/,親子天下【教育新創 20+】名單公佈 全臺最具創新力道 20 家教育新創登場 | VidaOrange,親子天下【教育新創 20+】名單公佈 全臺最具創新力道 20 家教育新創登場 | VidaOrange
+341,汽車,https://autos.udn.com/autos/story/7826/4512965,建廠100週年轉子引擎回歸好時機？Mazda回顧RX車系透露玄機 | 車壇新訊 | 國際車訊 | 發燒車訊,建廠100週年轉子引擎回歸好時機？Mazda回顧RX車系透露玄機 | 車壇新訊 | 國際車訊 | 發燒車訊
+342,醫療健康,https://mamaclub.com/learn/%e7%bf%92%e6%85%a3%e7%94%a8%e3%80%8c%e6%83%85%e7%b7%92%e6%80%a7%e9%a3%b2%e9%a3%9f%e3%80%8d%e9%80%83%e9%81%bf%e5%a3%93%e5%8a%9b%ef%bc%9f%e5%bf%83%e7%90%86%e5%b8%ab%e6%8f%90%e5%87%ba%e9%80%99%e6%96%b9/,習慣用「情緒性飲食」逃避壓力？心理師提出這方法教你擺脫惡性循環 – 媽媽經｜專屬於媽媽的網站,習慣用「情緒性飲食」逃避壓力？心理師提出這方法教你擺脫惡性循環 – 媽媽經｜專屬於媽媽的網站
+343,職涯,https://news.knowing.asia/news/fe037ac8-7b09-428c-9c89-d4f857aed3a4,【新國會online】環團戰將踏入政治叢林！民進黨立委洪申翰：期望成為一個夠格的政治工作者！,【新國會online】環團戰將踏入政治叢林！民進黨立委洪申翰：期望成為一個夠格的政治工作者！
+344,區塊鏈技術,https://blockcast.it/2020/04/23/crypto-derivatives-exchange-ftx-has-rolled-out-crude-oil-futures/,精準識別客戶需求，FTX 交易所推出原油期貨合約「OIL」,精準識別客戶需求，FTX 交易所推出原油期貨合約「OIL」
+345,Fintech金融科技,https://news.knowing.asia/news/fe352e56-a7c6-469f-b4d9-d36b43e45747,解決國民黨內青年人才荒！臺北市議員徐巧芯：期待透過「日知學塾」，實現真正的政治系,解決國民黨內青年人才荒！臺北市議員徐巧芯：期待透過「日知學塾」，實現真正的政治系
+346,Knowing,https://news.knowing.asia/news/ad03f650-0ceb-4f8f-a343-28af206e782e,勞動部的「安心即時上工」計畫跟你有何關係？一分鐘帶你看懂申請條件及正反意見,勞動部的「安心即時上工」計畫跟你有何關係？一分鐘帶你看懂申請條件及正反意見
+347,理財,https://stocksardine.com/%ef%bc%88%e8%ae%80%e6%9b%b8%e5%bf%83%e5%be%97%ef%bc%89%e6%95%a3%e6%88%b6%e8%b4%8f%e5%ae%b6%e7%9a%84-%e7%a5%9e%e6%ba%96%e6%8c%91%e8%82%a1%e8%a1%93/,（讀書心得）散戶贏家的 神準挑股術 - 股魚-不看盤投資,（讀書心得）散戶贏家的 神準挑股術 - 股魚-不看盤投資
+348,育兒,https://mamaclub.com/learn/%e6%8b%8d%e4%b8%8b%e5%89%8d%e5%a4%ab%e6%89%93%e9%81%b2%e7%b7%a9%e5%85%92%e7%95%ab%e9%9d%a2%ef%bc%8c%e9%99%b3%e5%ad%90%e7%8e%84%e5%87%ba%e9%9d%a2%e6%be%84%e6%b8%85%e3%80%8c%e6%88%91%e4%b8%8d%e6%98%af/,拍下前夫打遲緩兒畫面，陳子玄出面澄清「我不是冷血媽媽」 – 媽媽經｜專屬於媽媽的網站,拍下前夫打遲緩兒畫面，陳子玄出面澄清「我不是冷血媽媽」 – 媽媽經｜專屬於媽媽的網站
+349,Google專區,http://user18310.psee.io/KZ6FT,Google Duo 帶來 4 項新功能：優化低寬帶下的視訊畫面 - Saydigi-Tech | 點子科技,Google Duo 帶來 4 項新功能：優化低寬帶下的視訊畫面 - Saydigi-Tech | 點子科技
+350,PopDaily 波波黛莉的異想世界,https://popdaily.com/my/article/173819?utm_source=facebook-popdaily.my&utm_medium=post&utm_campaign=oreonobakedessert&utm_content=link-20200421-/173819,Oreo迷看這裏！4種免烤箱的Oreo簡易甜點食譜，手殘黨也可以輕鬆搞定！ | PopDaily 波波黛莉的異想世界 - 馬來西亞,Oreo迷看這裏！4種免烤箱的Oreo簡易甜點食譜，手殘黨也可以輕鬆搞定！ | PopDaily 波波黛莉的異想世界 - 馬來西亞
+351,育兒,https://mamaclub.com/learn/%e6%94%b6%e5%88%b0%e7%96%ab%e6%83%85%e8%ad%a6%e7%a4%ba%e7%b0%a1%e8%a8%8a%e4%bb%a3%e8%a1%a8%e8%a2%ab%e7%9b%a3%e6%8e%a7%ef%bc%9f%e5%b0%88%e5%ae%b6%ef%bc%9a%e5%85%b6%e5%af%a6%e4%b8%8d%e7%94%a8%e5%a4%aa/,收到疫情警示簡訊代表被監控？專家：其實不用太擔心 – 媽媽經｜專屬於媽媽的網站,收到疫情警示簡訊代表被監控？專家：其實不用太擔心 – 媽媽經｜專屬於媽媽的網站
+352,生活空間,https://decomyplace.com/n.php?id=8180,「專訪」20 年老屋打造室內攀巖區，邂逅臺北 32 坪現代親子好宅 - 福研設計 - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站,「專訪」20 年老屋打造室內攀巖區，邂逅臺北 32 坪現代親子好宅 - 福研設計 - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站
+353,紐約時報,https://cn.nytimes.com/asia-pacific/20200422/coronavirus-china-taiwan/zh-hant/?utm_source=RSS,防疫成就能幫助臺灣反抗北京的孤立嗎？,防疫成就能幫助臺灣反抗北京的孤立嗎？
+354,紐約時報,https://cn.nytimes.com/asia-pacific/20200422/coronavirus-china-taiwan/,防疫成就能幫助臺灣反抗北京的孤立嗎？ - 紐約時報中文網,防疫成就能幫助臺灣反抗北京的孤立嗎？ - 紐約時報中文網
+355,生活空間,https://decomyplace.com/n.php?id=8180,「專訪」20 年老屋打造室內攀巖區，邂逅臺北 32 坪現代親子好宅 - 福研設計 - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站,「專訪」20 年老屋打造室內攀巖區，邂逅臺北 32 坪現代親子好宅 - 福研設計 - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站
+356,紐約時報,https://cn.nytimes.com/asia-pacific/20200422/coronavirus-china-taiwan/zh-hant/?utm_source=RSS,防疫成就能幫助臺灣反抗北京的孤立嗎？,防疫成就能幫助臺灣反抗北京的孤立嗎？
+357,紐約時報,https://cn.nytimes.com/asia-pacific/20200422/coronavirus-china-taiwan/,防疫成就能幫助臺灣反抗北京的孤立嗎？ - 紐約時報中文網,防疫成就能幫助臺灣反抗北京的孤立嗎？ - 紐約時報中文網
+358,商業,http://prof-seetoo.blogspot.com/2020/04/blog-post.html,司徒達賢教授論壇: 如何善用國際大師,司徒達賢教授論壇: 如何善用國際大師
+359,遊戲情報,https://briian.com/66948/,"粉碎那隻鳥！「Flappy Crush」這次要控制的是水管本人！（iPhone, Android） – 重灌狂人","粉碎那隻鳥！「Flappy Crush」這次要控制的是水管本人！（iPhone, Android） – 重灌狂人"
+360,親子家庭,https://mamibuy.com.tw/talk/article/130448?utm_source=FB-used&utm_campaign=regular&utm_medium=post,怕小孩長不高?!多按壓轉骨穴位 | 媽咪拜MamiBuy,怕小孩長不高?!多按壓轉骨穴位 | 媽咪拜MamiBuy
+361,MF這樣變型男,https://mf.techbang.com/posts/2759-men-care-do-you-think-soda-is-sweet-enough-there-are-6-foods-contains-more-sugar-than-soda,【型男Care】你以為汽水已經夠甜？還有比汽水含有更多糖的6種食物！ | manfashion這樣變型男,【型男Care】你以為汽水已經夠甜？還有比汽水含有更多糖的6種食物！ | manfashion這樣變型男
+362,Google專區,https://applealmond.com/posts/70512,Google地圖足跡查詢教學：某天幾點去過哪、路徑都有紀錄 - 蘋果仁 - 你的科技媒體,Google地圖足跡查詢教學：某天幾點去過哪、路徑都有紀錄 - 蘋果仁 - 你的科技媒體
+363,Girl Secret,https://girlsecret.hk/fashion/trends-n-tips/6-大不容錯過的涼鞋趨勢，2020-春夏最流行的就是這幾/,6 大不容錯過的涼鞋趨勢，2020 春夏最流行的就是這幾款！ - Girl Secret,6 大不容錯過的涼鞋趨勢，2020 春夏最流行的就是這幾款！ - Girl Secret
+364,育兒,http://omg.idea543.net/post10162331102641?u=auto&utm_source=fb&utm_medium=727603510649640&utm_campaign=p105,浪子回頭！顏正國育3寶「堅持不進校園」請媽媽代勞　超開明教育「不犯錯就好」父愛彌補遺憾 - 創意妙管家,浪子回頭！顏正國育3寶「堅持不進校園」請媽媽代勞　超開明教育「不犯錯就好」父愛彌補遺憾 - 創意妙管家
+365,物聯網,https://buzzorange.com/techorange/2020/04/23/mount-everest-5g/,【登山也要 IoT】中國開通珠穆朗瑪峯 5G 基地臺，全球最高山有 5G 訊號啦！ | TechOrange,【登山也要 IoT】中國開通珠穆朗瑪峯 5G 基地臺，全球最高山有 5G 訊號啦！ | TechOrange
+366,生活空間,https://decomyplace.com/n.php?id=8209,臺灣原創設計恐龍燈！Raptor Lamp 多功互動燈具  - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站,臺灣原創設計恐龍燈！Raptor Lamp 多功互動燈具  - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站
+367,親子家庭,https://mamibuy.com.tw/talk/article/142145?utm_source=FB-used&utm_campaign=regular&utm_medium=post,口罩預購3.0懶人包.超商預購30秒搞定.成人兒童皆能預購 | 媽咪拜MamiBuy,口罩預購3.0懶人包.超商預購30秒搞定.成人兒童皆能預購 | 媽咪拜MamiBuy
+368,戶外路跑,https://dq.yam.com/post.php?id=12407&utm_source=facebook&utm_medium=post,健身也能愛地球 拾荒慢跑清塑浮潛正流行 | DQ 地球圖輯隊 帶你看透全世界,健身也能愛地球 拾荒慢跑清塑浮潛正流行 | DQ 地球圖輯隊 帶你看透全世界
+369,城市食旅,https://cue.japan-i.net/articles/d4aqY?fbclid=IwAR0is0B3txvH_Ka3k5OWAvJIg9yC2m3lHlhWjJIwkqVSXEuGuk-n-u70BJQ,新冠狀病毒（Covid-19）帶來新商機？病毒影響下的藥妝店熱賣商品10選｜Cue日本 ～讓你的生活變得更有意義～,新冠狀病毒（Covid-19）帶來新商機？病毒影響下的藥妝店熱賣商品10選｜Cue日本 ～讓你的生活變得更有意義～
+370,區塊鏈技術,https://www.blocktempo.com/what-it-would-take-for-mark-cuban-to-change-his-mind-about-bitcoin/,"NBA 獨行俠老闆庫班：假如比特幣變得連老婆婆都會操作，我才會支持 | 動區動趨-最具影響力的區塊鏈媒體 (比特幣, 虛擬貨幣)","NBA 獨行俠老闆庫班：假如比特幣變得連老婆婆都會操作，我才會支持 | 動區動趨-最具影響力的區塊鏈媒體 (比特幣, 虛擬貨幣)"
+371,生活,https://info.babyhome.com.tw/article/22240?utm_source=facebook&utm_medium=social&utm_campaign=0423_1002_facebook,「甜鹹的香蕉法國吐司」簡單的早餐也可以營養滿分 - BabyHome 新知大耳朵,「甜鹹的香蕉法國吐司」簡單的早餐也可以營養滿分 - BabyHome 新知大耳朵
+372,親子家庭,https://mamibuy.com.tw/talk/article/142145?utm_source=FB-used&utm_campaign=regular&utm_medium=post,口罩預購3.0懶人包.超商預購30秒搞定.成人兒童皆能預購 | 媽咪拜MamiBuy,口罩預購3.0懶人包.超商預購30秒搞定.成人兒童皆能預購 | 媽咪拜MamiBuy
+373,戶外路跑,https://dq.yam.com/post.php?id=12407&utm_source=facebook&utm_medium=post,健身也能愛地球 拾荒慢跑清塑浮潛正流行 | DQ 地球圖輯隊 帶你看透全世界,健身也能愛地球 拾荒慢跑清塑浮潛正流行 | DQ 地球圖輯隊 帶你看透全世界
+374,城市食旅,https://cue.japan-i.net/articles/d4aqY?fbclid=IwAR0is0B3txvH_Ka3k5OWAvJIg9yC2m3lHlhWjJIwkqVSXEuGuk-n-u70BJQ,新冠狀病毒（Covid-19）帶來新商機？病毒影響下的藥妝店熱賣商品10選｜Cue日本 ～讓你的生活變得更有意義～,新冠狀病毒（Covid-19）帶來新商機？病毒影響下的藥妝店熱賣商品10選｜Cue日本 ～讓你的生活變得更有意義～
+375,區塊鏈技術,https://www.blocktempo.com/what-it-would-take-for-mark-cuban-to-change-his-mind-about-bitcoin/,"NBA 獨行俠老闆庫班：假如比特幣變得連老婆婆都會操作，我才會支持 | 動區動趨-最具影響力的區塊鏈媒體 (比特幣, 虛擬貨幣)","NBA 獨行俠老闆庫班：假如比特幣變得連老婆婆都會操作，我才會支持 | 動區動趨-最具影響力的區塊鏈媒體 (比特幣, 虛擬貨幣)"
+376,生活,https://info.babyhome.com.tw/article/22240?utm_source=facebook&utm_medium=social&utm_campaign=0423_1002_facebook,「甜鹹的香蕉法國吐司」簡單的早餐也可以營養滿分 - BabyHome 新知大耳朵,「甜鹹的香蕉法國吐司」簡單的早餐也可以營養滿分 - BabyHome 新知大耳朵
+377,【理財專家】賈先生 財富商會,https://news.cnyes.com/news/id/4467719?exp=a,救市再出招！歐洲央行接受垃圾債為抵押品  因應降評浪潮將至 | Anue鉅亨 - 國際政經,救市再出招！歐洲央行接受垃圾債為抵押品  因應降評浪潮將至 | Anue鉅亨 - 國際政經
+378,生活空間,http://decomyplace.com/n.php?id=4905,餐桌上的 Deco！5 位超有才的 Instagram 擺盤達人 - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站,餐桌上的 Deco！5 位超有才的 Instagram 擺盤達人 - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站
+379,育兒,http://omg.idea543.net/post12246641072679?u=auto&utm_source=fb&utm_medium=727603510649640&utm_campaign=p105,劉詩詩被打敗！網票選「最新古裝4大女神」　冠軍「24歲史上最仙白蛇」紅到日本：4000年一遇美女❤ - 創意妙管家,劉詩詩被打敗！網票選「最新古裝4大女神」　冠軍「24歲史上最仙白蛇」紅到日本：4000年一遇美女❤ - 創意妙管家
+380,親子家庭,https://mamibuy.com.tw/talk/article/142117?utm_source=FB-used&utm_campaign=regular&utm_medium=post,"美國兒童皮膚科醫生呼籲：幼童腳趾有腫塊,恐是新冠病毒感染! | 媽咪拜MamiBuy","美國兒童皮膚科醫生呼籲：幼童腳趾有腫塊,恐是新冠病毒感染! | 媽咪拜MamiBuy"
+381,區塊鏈技術,https://blocktrend.substack.com/p/defi-uniswap-lendfme-,DeFi 連續被駭 — Uniswap 與 Lendf.Me 的骨牌效應 - 區塊勢,DeFi 連續被駭 — Uniswap 與 Lendf.Me 的骨牌效應 - 區塊勢
+382,健身,http://www.jianshenrun.com/archives/81473,降低體脂率的6個方法，堅持下來的人都瘦了-健身動起來,降低體脂率的6個方法，堅持下來的人都瘦了-健身動起來
+383,生活空間,https://decomyplace.com/n.php?id=8208,清新明亮白色公寓！義大利 23 坪簡約純淨北歐宅 - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站,清新明亮白色公寓！義大利 23 坪簡約純淨北歐宅 - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站
+384,林奇芬治富俱樂部,https://news.cnyes.com/news/id/4467719?utm_source=fbshare&utm_medium=facebook&utm_campaign=news,救市再出招！歐洲央行接受垃圾債為抵押品  因應降評浪潮將至 | Anue鉅亨 - 國際政經,救市再出招！歐洲央行接受垃圾債為抵押品  因應降評浪潮將至 | Anue鉅亨 - 國際政經
+385,理財,https://news.cnyes.com/news/id/4467694?utm_source=fbshare&utm_medium=facebook&utm_campaign=news,〈美股盤後〉油價反彈！更多刺激方案出臺 德儀領費半猛漲近6% | Anue鉅亨 - 美股,〈美股盤後〉油價反彈！更多刺激方案出臺 德儀領費半猛漲近6% | Anue鉅亨 - 美股
+386,醫療健康,https://info.babyhome.com.tw/article/22168?utm_source=facebook&utm_medium=social&utm_campaign=0423_0902_facebook,代糖會致癌？5個常見的癌症迷思 - BabyHome 新知大耳朵,代糖會致癌？5個常見的癌症迷思 - BabyHome 新知大耳朵
+387,地球圖輯隊,https://dq.yam.com/post.php?id=12412&utm_source=facebook&utm_medium=post,【地球 24小時】04/17  汪汪，你在看我嗎？ | DQ 地球圖輯隊 帶你看透全世界,【地球 24小時】04/17  汪汪，你在看我嗎？ | DQ 地球圖輯隊 帶你看透全世界
+388,旅遊,https://matcha-jp.com/tw/2268?utm_source=social&utm_medium=facebook&utm_campaign=tw&utm_content=43944,2020年日本便利商店奶茶10選，奶茶控快把美味帶著走！ | MATCHA - 日本線上旅遊觀光雜誌,2020年日本便利商店奶茶10選，奶茶控快把美味帶著走！ | MATCHA - 日本線上旅遊觀光雜誌
+389,地球圖輯隊,https://dq.yam.com/post.php?id=12412&utm_source=facebook&utm_medium=post,【地球 24小時】04/17  汪汪，你在看我嗎？ | DQ 地球圖輯隊 帶你看透全世界,【地球 24小時】04/17  汪汪，你在看我嗎？ | DQ 地球圖輯隊 帶你看透全世界
+390,旅遊,https://matcha-jp.com/tw/2268?utm_source=social&utm_medium=facebook&utm_campaign=tw&utm_content=43944,2020年日本便利商店奶茶10選，奶茶控快把美味帶著走！ | MATCHA - 日本線上旅遊觀光雜誌,2020年日本便利商店奶茶10選，奶茶控快把美味帶著走！ | MATCHA - 日本線上旅遊觀光雜誌
+391,生活空間,http://decomyplace.com/n.php?id=6800,最硬派工業風！MAKITA 牧田攜帶式咖啡機 - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站,最硬派工業風！MAKITA 牧田攜帶式咖啡機 - DECOmyplace 裝潢裝修、室內設計、居家佈置第一站
+392,健身,http://www.jianshenrun.com/archives/81474,減肥，避開這些“錯誤”飲食細節，你的身材纔會瘦下來！-健身動起來,減肥，避開這些“錯誤”飲食細節，你的身材纔會瘦下來！-健身動起來
+393,小丰子3c俱樂部,https://tel3c.tw/blog/post/28861,為何收到敦睦艦隊關懷提醒簡訊? 收到簡訊是否代表會被傳染呢? 淺談類細胞簡訊 - 小豐子3C俱樂部,為何收到敦睦艦隊關懷提醒簡訊? 收到簡訊是否代表會被傳染呢? 淺談類細胞簡訊 - 小豐子3C俱樂部
+394,TechOrange 科技報橘,http://user82907.psee.io/RKGQP,SoundOn Player,SoundOn Player
+395,育兒,https://mamibuy.com.tw/talk/forum/topic/396167?utm_source=FB-used&utm_campaign=regular&utm_medium=post,林依晨都加入人工受孕了…懷孕真的好難 | 媽咪拜MamiBuy,林依晨都加入人工受孕了…懷孕真的好難 | 媽咪拜MamiBuy
+396,足球,https://football.fanpiece.com/footballsense/昔日AC米蘭青訓產品兼新希望-命途坎坷就連哈薩克都唔-吼-你-c1374563.html,昔日AC米蘭青訓產品兼新希望　命途坎坷就連哈薩克都唔「吼」你 | 華拉堤踢法似我 | 球迷世界 - fanpiece,昔日AC米蘭青訓產品兼新希望　命途坎坷就連哈薩克都唔「吼」你 | 華拉堤踢法似我 | 球迷世界 - fanpiece
+397,享樂女性,https://fgblog.fashionguide.com.tw/content/pinkoi-earthday-2004012?utm_source=FB&utm_medium=POST&utm_campaign=FbPo200422,世界地球日今年邁入50週年！Pinkoi綠色生活減塑計畫，外食族５款環保用品推薦！ - FashionGuide 華人時尚專業評鑑,世界地球日今年邁入50週年！Pinkoi綠色生活減塑計畫，外食族５款環保用品推薦！ - FashionGuide 華人時尚專業評鑑
+398,親子家庭,https://mamibuy.com.tw/talk/article/141442?utm_source=FB-used&utm_campaign=regular&utm_medium=post,我只在乎妳!理想男人的13種模樣 | 媽咪拜MamiBuy,我只在乎妳!理想男人的13種模樣 | 媽咪拜MamiBuy
+399,足球,https://football.fanpiece.com/followArsenal/%E9%98%BF%E4%BB%99%E5%A5%B4%E6%89%93%E7%AE%97%E5%BE%9E%E8%A5%BF%E7%94%B2%E6%8C%96%E4%BA%BA%2D%E4%BD%8D%E4%BD%8D%E9%83%BD%E6%98%AF%E7%9F%A5%E5%90%8D%E7%90%83%E5%93%A1-c1374406.html?page=football,阿仙奴打算從西甲挖人 位位都是知名球員 | 追蹤阿仙奴 | 球迷世界 - fanpiece,阿仙奴打算從西甲挖人 位位都是知名球員 | 追蹤阿仙奴 | 球迷世界 - fanpiece
+400,美妝保養,https://fgblog.fashionguide.com.tw/content/watermist-20200422,在家工作也不能馬虎，澎潤少女的小法寶！精選6款「補水噴霧」，隨時隨地幫你保持水潤光澤！ - FashionGuide 華人時尚專業評鑑,在家工作也不能馬虎，澎潤少女的小法寶！精選6款「補水噴霧」，隨時隨地幫你保持水潤光澤！ - FashionGuide 華人時尚專業評鑑
+401,足球,https://football.fanpiece.com/rocknrollfootball/%E7%B6%93%E5%85%B8%E9%BB%9E%E5%B0%87%E9%8C%84%2D%E4%B8%8A%E4%B8%96%E7%B4%80%E5%B0%91%E6%95%B8%E6%96%BC%E8%8B%B1%E8%B6%85%E5%8F%96%E5%BE%97%E6%88%90%E5%8A%9F%E7%9A%84%E5%B7%B4%E8%A5%BF%E5%B0%8F%E5%B7%A8%E4%BA%BA-c1374505.html?page=football,經典點將錄：上世紀少數於英超取得成功的巴西小巨人 | Patrick’s足球樂與怒 | 球迷世界 - fanpiece,經典點將錄：上世紀少數於英超取得成功的巴西小巨人 | Patrick’s足球樂與怒 | 球迷世界 - fanpiece
+402,享樂女性,https://fgblog.fashionguide.com.tw/content/bbqchicken-takeout-20200417?utm_source=FB&utm_medium=POST&utm_campaign=FbPo20200422,新北市民吃起來！鬼怪炸雞bb.q CHICKEN全新外帶外送店落腳三重，3款限定創意披薩口味，只有這裡吃的到！ - FashionGuide 華人時尚專業評鑑,新北市民吃起來！鬼怪炸雞bb.q CHICKEN全新外帶外送店落腳三重，3款限定創意披薩口味，只有這裡吃的到！ - FashionGuide 華人時尚專業評鑑
+403,足球,https://football.fanpiece.com/westballmaster/%E9%A6%99%E6%B8%AF%E7%8D%A8%E6%9C%89%E7%9A%84%E7%A1%AC%E5%9C%B0%E4%B8%83%E4%BA%BA%E8%B6%B3%E7%90%83-c1374272.html?page=football,香港獨有的硬地七人足球 | 西波達人 Westball Master | 球迷世界 - fanpiece,香港獨有的硬地七人足球 | 西波達人 Westball Master | 球迷世界 - fanpiece
+404,足球,https://football.fanpiece.com/football365/UEFA%E9%96%8B%E6%9C%83%E5%95%86%E9%87%8F%E7%90%83%E5%AD%A3%E8%85%B0%E6%96%AC%E6%96%B9%E6%A1%88%2D%E6%9B%BC%E8%81%AF%E9%98%BF%E4%BB%99%E5%A5%B4%E5%8F%AF%E5%90%A6%E5%9F%B7%E9%9B%9E%E5%85%A5%E6%AD%90%E8%81%AF-c1374558.html?page=football,UEFA開會商量球季腰斬方案，曼聯阿仙奴可否執雞入歐聯？ | 睇足365 | 球迷世界 - fanpiece,UEFA開會商量球季腰斬方案，曼聯阿仙奴可否執雞入歐聯？ | 睇足365 | 球迷世界 - fanpiece
+405,足球,https://football.fanpiece.com/gearexpress/巴黎聖日耳門2020-21主場球衣發佈-經典設計Nike再度致敬-c1374500.html,巴黎聖日耳門2020-21主場球衣發佈 經典設計Nike再度致敬 | Gear Express 足球裝備快訊 | 球迷世界 - fanpiece,巴黎聖日耳門2020-21主場球衣發佈 經典設計Nike再度致敬 | Gear Express 足球裝備快訊 | 球迷世界 - fanpiece
+406,足球,https://football.fanpiece.com/rocknrollfootball/%E7%B6%93%E5%85%B8%E9%BB%9E%E5%B0%87%E9%8C%84%2D%E4%B8%8A%E4%B8%96%E7%B4%80%E5%B0%91%E6%95%B8%E6%96%BC%E8%8B%B1%E8%B6%85%E5%8F%96%E5%BE%97%E6%88%90%E5%8A%9F%E7%9A%84%E5%B7%B4%E8%A5%BF%E5%B0%8F%E5%B7%A8%E4%BA%BA-c1374505.html?page=football,經典點將錄：上世紀少數於英超取得成功的巴西小巨人 | Patrick’s足球樂與怒 | 球迷世界 - fanpiece,經典點將錄：上世紀少數於英超取得成功的巴西小巨人 | Patrick’s足球樂與怒 | 球迷世界 - fanpiece
+407,享樂女性,https://fgblog.fashionguide.com.tw/content/bbqchicken-takeout-20200417?utm_source=FB&utm_medium=POST&utm_campaign=FbPo20200422,新北市民吃起來！鬼怪炸雞bb.q CHICKEN全新外帶外送店落腳三重，3款限定創意披薩口味，只有這裡吃的到！ - FashionGuide 華人時尚專業評鑑,新北市民吃起來！鬼怪炸雞bb.q CHICKEN全新外帶外送店落腳三重，3款限定創意披薩口味，只有這裡吃的到！ - FashionGuide 華人時尚專業評鑑
+408,足球,https://football.fanpiece.com/westballmaster/%E9%A6%99%E6%B8%AF%E7%8D%A8%E6%9C%89%E7%9A%84%E7%A1%AC%E5%9C%B0%E4%B8%83%E4%BA%BA%E8%B6%B3%E7%90%83-c1374272.html?page=football,香港獨有的硬地七人足球 | 西波達人 Westball Master | 球迷世界 - fanpiece,香港獨有的硬地七人足球 | 西波達人 Westball Master | 球迷世界 - fanpiece
+409,足球,https://football.fanpiece.com/football365/UEFA%E9%96%8B%E6%9C%83%E5%95%86%E9%87%8F%E7%90%83%E5%AD%A3%E8%85%B0%E6%96%AC%E6%96%B9%E6%A1%88%2D%E6%9B%BC%E8%81%AF%E9%98%BF%E4%BB%99%E5%A5%B4%E5%8F%AF%E5%90%A6%E5%9F%B7%E9%9B%9E%E5%85%A5%E6%AD%90%E8%81%AF-c1374558.html?page=football,UEFA開會商量球季腰斬方案，曼聯阿仙奴可否執雞入歐聯？ | 睇足365 | 球迷世界 - fanpiece,UEFA開會商量球季腰斬方案，曼聯阿仙奴可否執雞入歐聯？ | 睇足365 | 球迷世界 - fanpiece
+410,足球,https://football.fanpiece.com/gearexpress/巴黎聖日耳門2020-21主場球衣發佈-經典設計Nike再度致敬-c1374500.html,巴黎聖日耳門2020-21主場球衣發佈 經典設計Nike再度致敬 | Gear Express 足球裝備快訊 | 球迷世界 - fanpiece,巴黎聖日耳門2020-21主場球衣發佈 經典設計Nike再度致敬 | Gear Express 足球裝備快訊 | 球迷世界 - fanpiece
+411,理財,https://football.fanpiece.com/fbworldfootball/%E7%86%B1%E7%83%88%E5%9C%B0%E5%BD%88%E7%90%B4%E7%86%B1%E7%83%88%E5%9C%B0%E5%94%B1%2D%E7%B4%90%E5%8D%A1%E7%B4%A0%E8%BD%89%E6%89%8B%E5%85%AB%E5%95%8F-c1374484.html?page=football,熱烈地彈琴熱烈地唱 - 紐卡素轉手八問 | 世界波 | 球迷世界 - fanpiece,熱烈地彈琴熱烈地唱 - 紐卡素轉手八問 | 世界波 | 球迷世界 - fanpiece
+412,足球,https://football.fanpiece.com/caddynews/%E5%B7%B4%E5%A1%9E%E5%8D%8A%E5%83%B9%E5%87%BA%E5%94%AE%2D%E5%8F%A4%E5%A4%A9%E5%A5%B4%E6%8E%A5%E8%BF%91%2D%E4%B8%8A%E8%BB%8A-c1374498.html?page=football,巴塞半價出售？ 古天奴接近「上車」 | 小球僮新聞報道 | 球迷世界 - fanpiece,巴塞半價出售？ 古天奴接近「上車」 | 小球僮新聞報道 | 球迷世界 - fanpiece
+413,足球,https://football.fanpiece.com/fergietime/%E8%B2%BB%E6%A0%BC%E9%81%9C%E5%9C%A8%E9%A6%99%E6%B8%AF-c1374423.html?page=football,費格遜在香港 | Fergie Time | 球迷世界 - fanpiece,費格遜在香港 | Fergie Time | 球迷世界 - fanpiece
+414,足球,https://football.fanpiece.com/Blnazefootballnote/%E6%B2%92%E6%9C%89%E4%BD%8E%E8%B0%B7%2D%E9%82%A3%E6%9C%89%E9%AB%98%E5%B1%B1%E2%94%80%E2%94%80Marcelo%2DBrozovic-c1374413.html?page=football,【沒有低谷，那有高山──Marcelo Brozovic】 | BLnaze | 球迷世界 - fanpiece,【沒有低谷，那有高山──Marcelo Brozovic】 | BLnaze | 球迷世界 - fanpiece
+415,足球,https://football.fanpiece.com/rocknrollfootball/%E9%80%9F%E5%BA%A6%E8%88%87%E7%88%86%E7%99%BC%E5%8A%9B%E4%B8%A6%E9%87%8D%2D%E6%8E%A5%E9%80%A3%E6%94%BB%E5%85%8B%E8%8B%B1%E8%B6%85%E9%9B%99%E7%B4%85%E7%9A%84%E6%96%87%E5%B0%BC%E5%B8%AB%E5%BC%9F-c1374475.html?page=football,速度與爆發力並重 接連攻克英超雙紅的文尼師弟 | Patrick’s足球樂與怒 | 球迷世界 - fanpiece,速度與爆發力並重 接連攻克英超雙紅的文尼師弟 | Patrick’s足球樂與怒 | 球迷世界 - fanpiece
+416,理財,http://blog.cnyes.com/My/vip-blog36/Article2715972,買ETF，別當誤入叢林小白兔,買ETF，別當誤入叢林小白兔
+417,BuzzOrange 報橘,https://buzzorange.com/2018/08/24/historical-research-of-titanic/,《鐵達尼號》考據達到顯微鏡等級——列出近 60 項史實，重新比對電影情節 | BuzzOrange,《鐵達尼號》考據達到顯微鏡等級——列出近 60 項史實，重新比對電影情節 | BuzzOrange
+418,科學最前線,https://sci101.news/15922/給家裡的舊物一個重生的機會吧！｜重生秘帖讓「/,重生的機會！祕方讓「顏值不再」的 生活小物 再次閃閃發亮 | 科學最前線,重生的機會！祕方讓「顏值不再」的 生活小物 再次閃閃發亮 | 科學最前線
+419,職涯,https://meet.bnext.com.tw/articles/view/46353,新創也能申請！經濟部祭出薪資及營運補貼方案，流程怎麼跑？,新創也能申請！經濟部祭出薪資及營運補貼方案，流程怎麼跑？
+420,理財,https://mamaclub.com/learn/%e5%9b%a0%e6%87%89%e7%96%ab%e6%83%85%e5%a0%b1%e7%a8%854%e5%a4%a7%e8%ae%8a%e9%9d%a9%ef%bc%81%e7%94%b3%e5%a0%b1%e6%88%aa%e6%ad%a2%e6%97%a5%e5%bb%b6%e8%87%b3%e5%85%ad%e6%9c%88%e5%ba%95/,因應疫情報稅4大變革！申報截止日延至六月底 – 媽媽經｜專屬於媽媽的網站,因應疫情報稅4大變革！申報截止日延至六月底 – 媽媽經｜專屬於媽媽的網站
+421,育兒,https://mamaclub.com/learn/%e5%8f%a3%e7%bd%a9%e5%af%a6%e5%90%8d%e5%88%b63-0%e4%b8%8a%e8%b7%af%ef%bc%81%e5%8f%af%e6%8c%81%e5%81%a5%e4%bf%9d%e5%8d%a1%e5%88%b04%e5%a4%a7%e8%b6%85%e5%95%86%e9%96%80%e5%b8%82%e9%a0%90%e8%b3%bc/,口罩實名制3.0上路！可持健保卡到4大超商門市預購與繳費 – 媽媽經｜專屬於媽媽的網站,口罩實名制3.0上路！可持健保卡到4大超商門市預購與繳費 – 媽媽經｜專屬於媽媽的網站
+422,美食,https://travel.ettoday.net/article/1698205.htm,堂剪先知鴨半價！圓山飯店明星商品優惠活動只到5/31 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),堂剪先知鴨半價！圓山飯店明星商品優惠活動只到5/31 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+423,育兒,https://mamaclub.com/learn/%e5%8f%a3%e7%bd%a9%e5%af%a6%e5%90%8d%e5%88%b63-0%e4%b8%8a%e8%b7%af%ef%bc%81%e5%8f%af%e6%8c%81%e5%81%a5%e4%bf%9d%e5%8d%a1%e5%88%b04%e5%a4%a7%e8%b6%85%e5%95%86%e9%96%80%e5%b8%82%e9%a0%90%e8%b3%bc/,口罩實名制3.0上路！可持健保卡到4大超商門市預購與繳費 – 媽媽經｜專屬於媽媽的網站,口罩實名制3.0上路！可持健保卡到4大超商門市預購與繳費 – 媽媽經｜專屬於媽媽的網站
+424,美食,https://travel.ettoday.net/article/1698205.htm,堂剪先知鴨半價！圓山飯店明星商品優惠活動只到5/31 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),堂剪先知鴨半價！圓山飯店明星商品優惠活動只到5/31 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+425,美食,https://travel.ettoday.net/article/1698195.htm,省下1000拍攝費！屏東山川琉璃吊橋拍婚紗期間限定「免費」入場 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),省下1000拍攝費！屏東山川琉璃吊橋拍婚紗期間限定「免費」入場 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+426,美食,https://travel.ettoday.net/article/1697557.htm,必收藏！嘉義阿將的家23咖啡石頭村祕境　雲霧繚繞＋翠綠山林宛如仙境 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),必收藏！嘉義阿將的家23咖啡石頭村祕境　雲霧繚繞＋翠綠山林宛如仙境 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+427,區塊鏈技術,https://www.blocktempo.com/is-it-possible-one-day-the-housing-price-goes-down-below-zero/,"專欄觀點｜看了石油期貨報價不妨想想，房價會不會跌成負數？ | 動區動趨-最具影響力的區塊鏈媒體 (比特幣, 虛擬貨幣)","專欄觀點｜看了石油期貨報價不妨想想，房價會不會跌成負數？ | 動區動趨-最具影響力的區塊鏈媒體 (比特幣, 虛擬貨幣)"
+428,育兒,https://mamaclub.com/learn/%e8%84%96%e5%ad%90%e5%8d%a1%e9%bb%91%e5%9e%a2%e6%b4%97%e4%b8%8d%e6%8e%89%ef%bc%8c%e3%80%8c%e9%bb%91%e6%a3%98%e7%9a%ae%e7%97%87%e3%80%8d%e6%9c%89%e4%bb%80%e9%ba%bc%e9%a2%a8%e9%9a%aa%ef%bc%9f/,小孩脖子後方黑黑髒髒的洗不掉？小心可能是糖尿病警訊！ – 媽媽經｜專屬於媽媽的網站,小孩脖子後方黑黑髒髒的洗不掉？小心可能是糖尿病警訊！ – 媽媽經｜專屬於媽媽的網站
+429,UNWIRE.HK 流動科技生活,https://unwire.hk/2020/04/23/samsungs-tv-boxes-reuse-competition/life-tech/green-2/,Samsung 舉辦設計比賽 收集電視機紙盒再用建議 - Unwire.hk,Samsung 舉辦設計比賽 收集電視機紙盒再用建議 - Unwire.hk
+430,生活報橘-VidaOrange,https://buzzorange.com/vidaorange/2020/04/23/work-read-books/,【如何靠閱讀在職場抓住別人注意力？】3300 萬人聽書影音平臺教父樊登傳授溝通「私房技巧」 | VidaOrange,【如何靠閱讀在職場抓住別人注意力？】3300 萬人聽書影音平臺教父樊登傳授溝通「私房技巧」 | VidaOrange
+431,生活報橘-VidaOrange,https://buzzorange.com/vidaorange/2020/04/23/health-way-to-find-happiness/,【網友：老師的遊戲讓大人都有共鳴】英文老師用氣球帶孩子上一堂「幸福哲學課」 | VidaOrange,【網友：老師的遊戲讓大人都有共鳴】英文老師用氣球帶孩子上一堂「幸福哲學課」 | VidaOrange
+432,區塊鏈技術,https://blockcast.it/2020/04/23/medallion-funds-permitted-to-enter-into-bitcoin-futures-transactions/,華爾街王牌基金佈局比特幣期貨，「Medallion」會推升比特幣嗎？ - 區塊客,華爾街王牌基金佈局比特幣期貨，「Medallion」會推升比特幣嗎？ - 區塊客
+433,運動,https://www.foxsports.com.tw/baseball/cpbl%e4%b8%ad%e8%8f%af%e8%81%b7%e6%a3%92/918365/%e4%b8%ad%e8%81%b7%e3%80%8b%e8%94%a3%e6%99%ba%e8%b3%a2%e9%80%a32%e5%a4%a9%e9%96%8b%e8%bd%9f-%e5%9b%9e%e5%88%b0%e4%b8%bb%e5%a0%b4%e8%bc%83%e8%bc%95%e9%ac%86%e6%94%be%e6%85%a2%e7%af%80%e5%a5%8f/,中職》蔣智賢連2天開轟 回到主場較輕鬆放慢節奏 - 最新體育新聞，即時比分，賽程和戰績 | FOX體育臺,中職》蔣智賢連2天開轟 回到主場較輕鬆放慢節奏 - 最新體育新聞，即時比分，賽程和戰績 | FOX體育臺
+434,享樂女性,https://thefemin.com/2020/04/ig-we-love-3-colour-trend-research-instagram-accounts-to-follow/,IG We Love：色彩控必追蹤！3個養成配色美感的影像靈感帳號 - The Femin,IG We Love：色彩控必追蹤！3個養成配色美感的影像靈感帳號 - The Femin
+435,好文共賞,https://crossing.cw.com.tw/article/13251,當我們遠端工作、被迫放無薪假──這場疫情如何改變未來職場？ ｜ 何則文／香蕉夢想家 ｜ 換日線 Crossing,當我們遠端工作、被迫放無薪假──這場疫情如何改變未來職場？ ｜ 何則文／香蕉夢想家 ｜ 換日線 Crossing
+436,商業,https://www.cmmedia.com.tw/home/articles/21000,磐石艦新增一例》敦睦艦隊會造成國內社區羣聚？陳時中：他們不是在日月潭繞... | 信傳媒,磐石艦新增一例》敦睦艦隊會造成國內社區羣聚？陳時中：他們不是在日月潭繞... | 信傳媒
+437,商業,https://www.cmmedia.com.tw/home/articles/20996,撤出中國》安倍重建關鍵材料供應鏈 日本不織布大廠回宮城設廠 | 信傳媒,撤出中國》安倍重建關鍵材料供應鏈 日本不織布大廠回宮城設廠 | 信傳媒
+438,科技,https://www.kocpc.com.tw/archives/318679,Spotify 播放清單中加入「隱藏歌曲」功能，播放音樂自動略過不喜愛的歌曲（使用教學） - 電腦王阿達,Spotify 播放清單中加入「隱藏歌曲」功能，播放音樂自動略過不喜愛的歌曲（使用教學） - 電腦王阿達
+439,遊戲情報,https://www.gamebase.com.tw/news/topic/99303532/,《集合啦！動物森友會》想賺銀行ATM利息不如乖乖認命捕魚抓蟲賺錢去 :: 遊戲基地 gamebase,《集合啦！動物森友會》想賺銀行ATM利息不如乖乖認命捕魚抓蟲賺錢去 :: 遊戲基地 gamebase
+440,商業,https://www.cmmedia.com.tw/home/articles/21000,磐石艦新增一例》敦睦艦隊會造成國內社區羣聚？陳時中：他們不是在日月潭繞... | 信傳媒,磐石艦新增一例》敦睦艦隊會造成國內社區羣聚？陳時中：他們不是在日月潭繞... | 信傳媒
+441,商業,https://www.cmmedia.com.tw/home/articles/20996,撤出中國》安倍重建關鍵材料供應鏈 日本不織布大廠回宮城設廠 | 信傳媒,撤出中國》安倍重建關鍵材料供應鏈 日本不織布大廠回宮城設廠 | 信傳媒
+442,科技,https://www.kocpc.com.tw/archives/318679,Spotify 播放清單中加入「隱藏歌曲」功能，播放音樂自動略過不喜愛的歌曲（使用教學） - 電腦王阿達,Spotify 播放清單中加入「隱藏歌曲」功能，播放音樂自動略過不喜愛的歌曲（使用教學） - 電腦王阿達
+443,遊戲情報,https://www.gamebase.com.tw/news/topic/99303532/,《集合啦！動物森友會》想賺銀行ATM利息不如乖乖認命捕魚抓蟲賺錢去 :: 遊戲基地 gamebase,《集合啦！動物森友會》想賺銀行ATM利息不如乖乖認命捕魚抓蟲賺錢去 :: 遊戲基地 gamebase
+444,遊戲情報,https://www.gamebase.com.tw/news/topic/99303529/,PS4／Switch版《魔界戰記DISGAEA 4 Return》今日發售！ :: 遊戲基地 gamebase,PS4／Switch版《魔界戰記DISGAEA 4 Return》今日發售！ :: 遊戲基地 gamebase
+445,棒球,https://www.foxsports.com.tw/%e4%bc%81%e6%a5%ad%e5%a5%b3%e5%ad%90%e5%a3%98%e7%90%83%e8%81%af%e8%b3%bd/918405/%e5%a5%b3%e5%a3%98%e3%80%8b2020%e6%96%b0%e5%8a%9b%e6%97%ba%e4%bc%81%e6%a5%ad%e5%a5%b3%e5%ad%90%e5%a3%98%e7%90%83%e8%81%af%e8%b3%bd-25%e6%97%a5%e9%96%8b%e6%89%93/,女壘》2020新力旺企業女子壘球聯賽 25日開打 - 最新體育新聞，即時比分，賽程和戰績 | FOX體育臺,女壘》2020新力旺企業女子壘球聯賽 25日開打 - 最新體育新聞，即時比分，賽程和戰績 | FOX體育臺
+446,籃球,https://www.foxsports.com.tw/basketball/sbl/918407/sbl%e3%80%8b%e7%99%bb%e4%b8%8a%e4%b8%96%e7%95%8c%e8%88%9e%e5%8f%b0-fiba%e7%9b%b4%e6%92%ad%e7%b8%bd%e5%86%a0%e8%bb%8d%e8%b3%bd/,SBL》登上世界舞臺 FIBA直播總冠軍賽 - 最新體育新聞，即時比分，賽程和戰績 | FOX體育臺,SBL》登上世界舞臺 FIBA直播總冠軍賽 - 最新體育新聞，即時比分，賽程和戰績 | FOX體育臺
+447,網球,https://www.foxsports.com.tw/tennis/918401/%e7%b6%b2%e7%90%83%e3%80%8b%e7%b4%8d%e9%81%94%e7%88%be%e8%b2%bb%e5%be%b7%e7%91%9e%e9%83%bd%e8%b4%8a%e6%88%90-%e7%94%b7%e5%a5%b3%e7%b6%b2%e5%8d%94atp%e8%88%87wta%e5%90%88%e4%bd%b5%e8%81%b2%e8%b5%b7/,網球》納達爾費德瑞都贊成 男女網協ATP與WTA合併聲起 - 最新體育新聞，即時比分，賽程和戰績 | FOX體育臺,網球》納達爾費德瑞都贊成 男女網協ATP與WTA合併聲起 - 最新體育新聞，即時比分，賽程和戰績 | FOX體育臺
+448,蘋果專區,https://www.cool3c.com/article/153266,電視長相變了 三星推4K翻轉電視The Sero、畫框電視The Frame、風格電視The Serif (153266) - 癮科技 Cool3c,電視長相變了 三星推4K翻轉電視The Sero、畫框電視The Frame、風格電視The Serif (153266) - 癮科技 Cool3c
+449,商業,https://www.cmmedia.com.tw/home/articles/20999,口罩外交不如北京臺巴關係現危機？吳釗燮：買的卻被宣傳成中國送的 | 信傳媒,口罩外交不如北京臺巴關係現危機？吳釗燮：買的卻被宣傳成中國送的 | 信傳媒
+450,房地產,https://www.cmmedia.com.tw/home/articles/20995,北部商圈哀號：業績狂掉8成 板橋商圈5月將現倒店潮... | 信傳媒,北部商圈哀號：業績狂掉8成 板橋商圈5月將現倒店潮... | 信傳媒
+451,育兒,https://mamaclub.com/learn/%e3%80%8a%e5%93%88%e5%9b%89%e6%8e%b0%e6%8e%b0%ef%bc%8c%e6%88%91%e6%98%af%e9%ac%bc%e5%aa%bd%e5%aa%bd%e3%80%8b%e7%95%b6%e6%9c%89%e4%ba%86%e5%9b%9e%e5%88%b0%e4%ba%ba%e9%96%93%e7%9a%84%e6%a9%9f%e6%9c%83/,《哈囉掰掰，我是鬼媽媽》當有了回到人間的機會，她選擇把握與女兒相處的時光 – 媽媽經｜專屬於媽媽的網站,《哈囉掰掰，我是鬼媽媽》當有了回到人間的機會，她選擇把握與女兒相處的時光 – 媽媽經｜專屬於媽媽的網站
+452,城市食旅,https://www.mook.com.tw/article.php?op=articleinfo&articleid=23723,奇山妙水美拍地景！草嶺十景夢幻山林祕境 - MOOK景點家 - 墨刻出版 華文最大旅遊資訊平臺,奇山妙水美拍地景！草嶺十景夢幻山林祕境 - MOOK景點家 - 墨刻出版 華文最大旅遊資訊平臺
+453,資訊安全,https://www.foxsports.com.tw/basketball/918395/%e5%b7%9d%e6%99%ae%e5%96%8a%e4%b8%ad%e5%9c%8b%e7%97%85%e6%af%92-%e6%9e%97%e6%9b%b8%e8%b1%aa%ef%bc%9a%e4%b8%8d%e5%b8%8c%e6%9c%9b%e4%bb%bb%e4%bd%95%e6%97%8f%e7%be%a4%e5%8f%97%e6%94%bb%e6%93%8a/,CBA》川普喊中國病毒 林書豪：不希望任何族羣受攻擊 - 最新體育新聞，即時比分，賽程和戰績 | FOX體育臺,CBA》川普喊中國病毒 林書豪：不希望任何族羣受攻擊 - 最新體育新聞，即時比分，賽程和戰績 | FOX體育臺
+454,區塊鏈技術,https://www.blocktempo.com/defi-platform-dforce-lend-me/,"dForce發布遭駭事件還原報告，接下來會怎麼做？楊民道揭示3點行動計畫 | 動區動趨-最具影響力的區塊鏈媒體 (比特幣, 虛擬貨幣)","dForce發布遭駭事件還原報告，接下來會怎麼做？楊民道揭示3點行動計畫 | 動區動趨-最具影響力的區塊鏈媒體 (比特幣, 虛擬貨幣)"
+455,美妝保養,https://www.niusnews.com/=P0mw3v36,緩解口罩危肌！提提研「黑蜂蜜活源新肌生物纖維面膜」  創造前所未有「醒膚感」 | 提提研、TTM、保養、面膜、生物纖維面膜 | 品牌新聞 | 妞新聞 niusnews,緩解口罩危肌！提提研「黑蜂蜜活源新肌生物纖維面膜」  創造前所未有「醒膚感」 | 提提研、TTM、保養、面膜、生物纖維面膜 | 品牌新聞 | 妞新聞 niusnews
+456,享樂女性,https://www.niusnews.com/=P0l2h4g5,致敬Superstar誕生50週年 adidas再推三款旗艦鞋款 延續傳奇神話 | superstar、50週年、adidas Ultraboost DNA、4D 1.0、Pro Model 2G | 品牌新聞 | 妞新聞 niusnews,致敬Superstar誕生50週年 adidas再推三款旗艦鞋款 延續傳奇神話 | superstar、50週年、adidas Ultraboost DNA、4D 1.0、Pro Model 2G | 品牌新聞 | 妞新聞 niusnews
+457,美妝保養,https://www.niusnews.com/=P0mw3v36,緩解口罩危肌！提提研「黑蜂蜜活源新肌生物纖維面膜」  創造前所未有「醒膚感」 | 提提研、TTM、保養、面膜、生物纖維面膜 | 品牌新聞 | 妞新聞 niusnews,緩解口罩危肌！提提研「黑蜂蜜活源新肌生物纖維面膜」  創造前所未有「醒膚感」 | 提提研、TTM、保養、面膜、生物纖維面膜 | 品牌新聞 | 妞新聞 niusnews
+458,享樂女性,https://www.niusnews.com/=P0l2h4g5,致敬Superstar誕生50週年 adidas再推三款旗艦鞋款 延續傳奇神話 | superstar、50週年、adidas Ultraboost DNA、4D 1.0、Pro Model 2G | 品牌新聞 | 妞新聞 niusnews,致敬Superstar誕生50週年 adidas再推三款旗艦鞋款 延續傳奇神話 | superstar、50週年、adidas Ultraboost DNA、4D 1.0、Pro Model 2G | 品牌新聞 | 妞新聞 niusnews
+459,PopDaily 波波黛莉的異想世界,https://www.popdaily.com.tw/forum/life/652415?utm_source=facebook-popdaily&utm_medium=post&utm_campaign=appugc-&utm_content=link,華語10大靈異MV盤點｜PopDaily 發現你的生活靈感,華語10大靈異MV盤點｜PopDaily 發現你的生活靈感
+460,無人駕駛,https://unwire.hk/2020/04/23/connecticut-cops-deploy-pandemic-drone-to-combat-coronavirus/fun-tech/,美國警方以無人機作防疫用途　60米外量度體溫及咳嗽行為 - Unwire.hk,美國警方以無人機作防疫用途　60米外量度體溫及咳嗽行為 - Unwire.hk
+461,美妝保養,https://www.niusnews.com/=P04tk313,Tomod’s換季好誠意！精選商品「任選第2件4折」 | Tomod’s、換季、保養、毛孔、消費 | 品牌新聞 | 妞新聞 niusnews,Tomod’s換季好誠意！精選商品「任選第2件4折」 | Tomod’s、換季、保養、毛孔、消費 | 品牌新聞 | 妞新聞 niusnews
+462,兩性,https://www.popdaily.com.tw/press/18058?utm_source=facebook-popdaily-poplove&utm_medium=post&utm_campaign=constellation&utm_content=link-20200423-press/18058,這些星座男，女人實在管不住！來看看難以征服的他們，是否已在妳手裡？｜PopDaily 發現你的生活靈感,這些星座男，女人實在管不住！來看看難以征服的他們，是否已在妳手裡？｜PopDaily 發現你的生活靈感
+463,今周刊,https://www.businesstoday.com.tw/article/category/80402/post/202004230007/搭上防疫商機，全家(5903)現在還能買嗎？艾蜜莉：這是我心中的「便宜價」?utm_source=FB&utm_medium=article&utm_campaign=200423,搭上防疫商機，全家(5903)現在還能買嗎？艾蜜莉：這是我心中的「便宜價」 - 今周刊,搭上防疫商機，全家(5903)現在還能買嗎？艾蜜莉：這是我心中的「便宜價」 - 今周刊
+464,醫療健康,https://www.edh.tw/article/12844,遠離癌症、三高！逆轉糖的傷害就多吃這3種食物 |早安健康,遠離癌症、三高！逆轉糖的傷害就多吃這3種食物 |早安健康
+465,商業,https://news.housefun.com.tw/news/article/138783252734.html?utm_source=fans-page.facebook.com&utm_medium=referral&utm_content=ohousefun&utm_campaign=normal_news,林口匝道又要禁左轉　新北、桃園達共識將試辦1個月,林口匝道又要禁左轉　新北、桃園達共識將試辦1個月
+466,女人迷 womany,https://womany.net/read/article/24053,寫在何妤玟離婚後：婚後的女性劇本，如何束縛「媽媽」們？｜性別力 Gender Power,寫在何妤玟離婚後：婚後的女性劇本，如何束縛「媽媽」們？｜性別力 Gender Power
+467,科技,https://www.kocpc.com.tw/archives/317098,臺灣之星「自由配」改版升級再進化！語音、流量組合更隨心還能月月換 - 電腦王阿達,臺灣之星「自由配」改版升級再進化！語音、流量組合更隨心還能月月換 - 電腦王阿達
+468,美食,https://travel.ettoday.net/article/1698328.htm,出蘇花改就到！花蓮新祕境「臺泥DAKA」　有全臺唯一開放礦山、玻璃屋星巴克 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),出蘇花改就到！花蓮新祕境「臺泥DAKA」　有全臺唯一開放礦山、玻璃屋星巴克 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+469,美食,https://travel.ettoday.net/article/1698325.htm,玉山高空驚見絕美「大眼珠」日暈奇景　 山友讚：山神的禮物！ | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),玉山高空驚見絕美「大眼珠」日暈奇景　 山友讚：山神的禮物！ | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+470,蘋果專區,https://www.cool3c.com/article/153277,郭明錤表示 iPhone 12 因天線測試導致進度落後，同時 iPhone SE 反因疫情賣太好衝擊高階機銷售 (153277) - 癮科技 Cool3c,郭明錤表示 iPhone 12 因天線測試導致進度落後，同時 iPhone SE 反因疫情賣太好衝擊高階機銷售 (153277) - 癮科技 Cool3c
+471,享樂女性,https://www.niusnews.com/=P3tsj0u0,SJ「希澈」不忍了！先槓上記者後反擊酸民，直播火力全開霸氣嗆：「去警察局酸啊！」 | SJ、希澈、Super Junior、金希澈、韓星惡評 | 名人娛樂 | 妞新聞 niusnews,SJ「希澈」不忍了！先槓上記者後反擊酸民，直播火力全開霸氣嗆：「去警察局酸啊！」 | SJ、希澈、Super Junior、金希澈、韓星惡評 | 名人娛樂 | 妞新聞 niusnews
+472,PopDaily 波波黛莉的異想世界,https://www.popdaily.com.tw/beauty/272310?utm_source=facebook-popdaily-populzzang&utm_medium=post&utm_campaign=finger&utm_content=link-20200423-beauty/272310,甜不辣胖胖手指的逆襲！每天10分鐘「手指操」，漫畫鋼琴手養成祕技公開｜PopDaily 發現你的生活靈感,甜不辣胖胖手指的逆襲！每天10分鐘「手指操」，漫畫鋼琴手養成祕技公開｜PopDaily 發現你的生活靈感
+473,理財,https://rich01.com/etoro-trade-expense/,在eToro(e投睿)交易，需注意的6大費用(出金、電匯、點差、隔夜利息、稅金、閒置費) - Mr.Market市場先生,在eToro(e投睿)交易，需注意的6大費用(出金、電匯、點差、隔夜利息、稅金、閒置費) - Mr.Market市場先生
+474,蘋果專區,https://www.cool3c.com/article/153277,郭明錤表示 iPhone 12 因天線測試導致進度落後，同時 iPhone SE 反因疫情賣太好衝擊高階機銷售 (153277) - 癮科技 Cool3c,郭明錤表示 iPhone 12 因天線測試導致進度落後，同時 iPhone SE 反因疫情賣太好衝擊高階機銷售 (153277) - 癮科技 Cool3c
+475,享樂女性,https://www.niusnews.com/=P3tsj0u0,SJ「希澈」不忍了！先槓上記者後反擊酸民，直播火力全開霸氣嗆：「去警察局酸啊！」 | SJ、希澈、Super Junior、金希澈、韓星惡評 | 名人娛樂 | 妞新聞 niusnews,SJ「希澈」不忍了！先槓上記者後反擊酸民，直播火力全開霸氣嗆：「去警察局酸啊！」 | SJ、希澈、Super Junior、金希澈、韓星惡評 | 名人娛樂 | 妞新聞 niusnews
+476,PopDaily 波波黛莉的異想世界,https://www.popdaily.com.tw/beauty/272310?utm_source=facebook-popdaily-populzzang&utm_medium=post&utm_campaign=finger&utm_content=link-20200423-beauty/272310,甜不辣胖胖手指的逆襲！每天10分鐘「手指操」，漫畫鋼琴手養成祕技公開｜PopDaily 發現你的生活靈感,甜不辣胖胖手指的逆襲！每天10分鐘「手指操」，漫畫鋼琴手養成祕技公開｜PopDaily 發現你的生活靈感
+477,理財,https://rich01.com/etoro-trade-expense/,在eToro(e投睿)交易，需注意的6大費用(出金、電匯、點差、隔夜利息、稅金、閒置費) - Mr.Market市場先生,在eToro(e投睿)交易，需注意的6大費用(出金、電匯、點差、隔夜利息、稅金、閒置費) - Mr.Market市場先生
+478,享樂女性,https://www.niusnews.com/=P0nkak37,為吃不擇手段！「柴犬罐罐」公仔驚見貪吃不擦嘴、誘人屁屁，柴奴「只能抱緊處理！」 | 柴犬罐罐、路遙圓創、柴犬、公仔、模型 | 生活發現 | 妞新聞 niusnews,為吃不擇手段！「柴犬罐罐」公仔驚見貪吃不擦嘴、誘人屁屁，柴奴「只能抱緊處理！」 | 柴犬罐罐、路遙圓創、柴犬、公仔、模型 | 生活發現 | 妞新聞 niusnews
+479,商業,https://www.cmmedia.com.tw/home/articles/20994,人物》剪下20年招牌長髮 林昶佐感慨..整個人生化為烏有 | 信傳媒,人物》剪下20年招牌長髮 林昶佐感慨..整個人生化為烏有 | 信傳媒
+480,商業,https://www.cmmedia.com.tw/home/articles/20993,《紐時》專訪陳建仁評防疫外交「臺灣能幫忙」是多管齊下挑戰北京 | 信傳媒,《紐時》專訪陳建仁評防疫外交「臺灣能幫忙」是多管齊下挑戰北京 | 信傳媒
+481,享樂女性,https://babyou.nownews.com/news/life/petsmao/300009080972/?from=bbfb_p&utm_source=fb&utm_medium=bb&utm_campaign=p,賓士貓天天到男子窗外凝視　任性進屋玩：朕缺奴才啦！ | 毛孩日常 | Babyou 姊妹淘,賓士貓天天到男子窗外凝視　任性進屋玩：朕缺奴才啦！ | 毛孩日常 | Babyou 姊妹淘
+482,美食,https://travel.ettoday.net/article/1698314.htm,基隆「賞螢、油桐花」3私房地公開！走進螢光紛飛夢幻場景 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊),基隆「賞螢、油桐花」3私房地公開！走進螢光紛飛夢幻場景 | ETtoday 旅遊雲 | ETtoday旅遊新聞(旅遊)
+483,遊戲情報,https://www.gamebase.com.tw/news/topic/99303506/,《MARVEL未來之戰》迎接來自漫威黑寡婦的超級英雄與惡棍 ，加入全新戰鬥、內容和制服等更新 :: 遊戲基地 gamebase,《MARVEL未來之戰》迎接來自漫威黑寡婦的超級英雄與惡棍 ，加入全新戰鬥、內容和制服等更新 :: 遊戲基地 gamebase
+484,遊戲情報,https://www.gamebase.com.tw/news/topic/99303505/,《Beyond Blue》Apple Arcade人氣海洋探索遊戲家機／PC版世界海洋日即將推出 :: 遊戲基地 gamebase,《Beyond Blue》Apple Arcade人氣海洋探索遊戲家機／PC版世界海洋日即將推出 :: 遊戲基地 gamebase
+485,遊戲情報,https://www.gamebase.com.tw/news/topic/99303503/,《密特拉之星》大型改版釋出「龍人之證」，Battle Pass系統登場 :: 遊戲基地 gamebase,《密特拉之星》大型改版釋出「龍人之證」，Battle Pass系統登場 :: 遊戲基地 gamebase
+486,遊戲情報,https://www.gamebase.com.tw/news/topic/99303497/,4月28日開機！2020年首款輕策略自走手遊《終極之三國》事前預約倒計時！ :: 遊戲基地 gamebase,4月28日開機！2020年首款輕策略自走手遊《終極之三國》事前預約倒計時！ :: 遊戲基地 gamebase
+487,遊戲情報,https://www.gamebase.com.tw/news/topic/99303493/,《哆啦A夢 牧場物語》PS4版最新介紹影片公開，早期購入特典情報同步釋出 :: 遊戲基地 gamebase,《哆啦A夢 牧場物語》PS4版最新介紹影片公開，早期購入特典情報同步釋出 :: 遊戲基地 gamebase
+488,遊戲情報,https://www.gamebase.com.tw/news/topic/99303487/,《WOTV FFBE》x《FINAL FANTASY TACTICS》聯動活動正式開跑！ :: 遊戲基地 gamebase,《WOTV FFBE》x《FINAL FANTASY TACTICS》聯動活動正式開跑！ :: 遊戲基地 gamebase
+489,遊戲情報,https://www.gamebase.com.tw/news/topic/99303484/,《海腹川背 BaZooKa！》系列全新四人大亂鬥Switch體驗版即日起開放試玩 :: 遊戲基地 gamebase,《海腹川背 BaZooKa！》系列全新四人大亂鬥Switch體驗版即日起開放試玩 :: 遊戲基地 gamebase
+490,城市食旅,https://www.mook.com.tw/article.php?op=articleinfo&articleid=23722,步道農場玩遍草屯！一日漫遊小鎮超有趣 - MOOK景點家 - 墨刻出版 華文最大旅遊資訊平臺,步道農場玩遍草屯！一日漫遊小鎮超有趣 - MOOK景點家 - 墨刻出版 華文最大旅遊資訊平臺
+491,遊戲情報,https://www.gamebase.com.tw/news/topic/99303503/,《密特拉之星》大型改版釋出「龍人之證」，Battle Pass系統登場 :: 遊戲基地 gamebase,《密特拉之星》大型改版釋出「龍人之證」，Battle Pass系統登場 :: 遊戲基地 gamebase
+492,遊戲情報,https://www.gamebase.com.tw/news/topic/99303497/,4月28日開機！2020年首款輕策略自走手遊《終極之三國》事前預約倒計時！ :: 遊戲基地 gamebase,4月28日開機！2020年首款輕策略自走手遊《終極之三國》事前預約倒計時！ :: 遊戲基地 gamebase
+493,遊戲情報,https://www.gamebase.com.tw/news/topic/99303493/,《哆啦A夢 牧場物語》PS4版最新介紹影片公開，早期購入特典情報同步釋出 :: 遊戲基地 gamebase,《哆啦A夢 牧場物語》PS4版最新介紹影片公開，早期購入特典情報同步釋出 :: 遊戲基地 gamebase
+494,遊戲情報,https://www.gamebase.com.tw/news/topic/99303487/,《WOTV FFBE》x《FINAL FANTASY TACTICS》聯動活動正式開跑！ :: 遊戲基地 gamebase,《WOTV FFBE》x《FINAL FANTASY TACTICS》聯動活動正式開跑！ :: 遊戲基地 gamebase
+495,遊戲情報,https://www.gamebase.com.tw/news/topic/99303484/,《海腹川背 BaZooKa！》系列全新四人大亂鬥Switch體驗版即日起開放試玩 :: 遊戲基地 gamebase,《海腹川背 BaZooKa！》系列全新四人大亂鬥Switch體驗版即日起開放試玩 :: 遊戲基地 gamebase
+496,城市食旅,https://www.mook.com.tw/article.php?op=articleinfo&articleid=23722,步道農場玩遍草屯！一日漫遊小鎮超有趣 - MOOK景點家 - 墨刻出版 華文最大旅遊資訊平臺,步道農場玩遍草屯！一日漫遊小鎮超有趣 - MOOK景點家 - 墨刻出版 華文最大旅遊資訊平臺
+497,AI與大數據,https://www.kocpc.com.tw/archives/318673,Smart upscaler 免費 AI 圖片放大線上工具 支援 2 倍、4 倍，最大可達 3000x3000 解析度 - 電腦王阿達,Smart upscaler 免費 AI 圖片放大線上工具 支援 2 倍、4 倍，最大可達 3000x3000 解析度 - 電腦王阿達
+498,享樂女性,https://www.adaymag.com/2020/04/23/han-so-hwee-reveals-she-came-to-seoul-with-only-300000.html,從江南「酒吧女」到成為「最美小三」：韓素希成名前的辛酸史 ‧ A Day Magazine,從江南「酒吧女」到成為「最美小三」：韓素希成名前的辛酸史 ‧ A Day Magazine
+499,影劇,https://www.niusnews.com/=P03f1k81,金所泫情歸何處！？韓劇《喜歡的話請響鈴》原版漫畫WEBTOON登場！ | 喜歡的話請響鈴、金所泫、電影、韓劇、WEBTOON | 生活發現 | 妞新聞 niusnews,金所泫情歸何處！？韓劇《喜歡的話請響鈴》原版漫畫WEBTOON登場！ | 喜歡的話請響鈴、金所泫、電影、韓劇、WEBTOON | 生活發現 | 妞新聞 niusnews
+500,上報UpMedia,https://www.upmedia.mg/news_info.php?SerialNo=85796,【假佛心真拗人】旅宿業者逼「自請」事假　勞工紓困補助飛了,【假佛心真拗人】旅宿業者逼「自請」事假　勞工紓困補助飛了
